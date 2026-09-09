@@ -1,0 +1,59 @@
+Semester,Session,Subject Code,Subject Name,Type,Internal Marks,External Marks,Grade,Total Marks
+1,2023-24,BAS102,Engineering Chemistry,Theory,29,47.0,B+,76.0
+1,2023-24,BAS103,Engineering Mathematics-I,Theory,29,53.0,A,82.0
+1,2023-24,BEE101,Fundamentals of Electrical Engineering,Theory,29,63.0,A+,92.0
+1,2023-24,BCS101,Programming for Problem Solving,Theory,29,40.0,B,69.0
+1,2023-24,BAS104,Environment and Ecology,Theory,29,41.0,B+,70.0
+1,2023-24,BAS152,Engineering Chemistry Lab,Practical,49,48.0,A+,97.0
+1,2023-24,BEE151,Basic Electrical Engineering Lab,Practical,49,47.0,A+,96.0
+1,2023-24,BCS151,Programming for Problem Solving Lab,Practical,49,48.0,A+,97.0
+1,2023-24,BCE151,Engineering Graphics & Design Lab,Practical,49,147.0,A+,196.0
+2,2023-24,BAS201,Engineering Physics,Theory,29,57.0,A,86.0
+2,2023-24,BAS203,Engineering Mathematics-II,Theory,29,44.0,B+,73.0
+2,2023-24,BEC201,Fundamentals of Electronics Engineering,Theory,29,52.0,A,81.0
+2,2023-24,BME201,Fundamentals of Mechanical Engineering,Theory,29,40.0,B,69.0
+2,2023-24,BAS205,Soft Skills,Theory,29,43.0,B+,72.0
+2,2023-24,BAS251,Engineering Physics Lab,Practical,49,44.0,A+,93.0
+2,2023-24,BEC251,Basic Electronics Engineering Lab,Practical,49,47.0,A+,96.0
+2,2023-24,BAS255,English Language Lab,Practical,49,44.0,A+,93.0
+2,2023-24,BWS251,Workshop Practice Lab,Practical,49,44.0,A+,93.0
+2,2023-24,BVA251,Sports and Yoga,CA,95,,,95.0
+3,2024-25,BOE303,Material Science,Theory,26,42.0,B,68.0
+3,2024-25,BAS301,Technical Communication,Theory,27,38.0,B,65.0
+3,2024-25,BCS301,Data Structure,Theory,27,55.0,A,82.0
+3,2024-25,BCS302,Computer Organization and Architecture,Theory,27,41.0,B,68.0
+3,2024-25,BCS303,Discrete Structures & Theory of Logic,Theory,26,37.0,B,63.0
+3,2024-25,BCC301,Cyber Security,Theory,26,49.0,B+,75.0
+3,2024-25,BCS351,Data Structure Lab,Practical,46,47.0,A+,93.0
+3,2024-25,BCS352,Computer Organization and Architecture Lab,Practical,46,48.0,A+,94.0
+3,2024-25,BCS353,Web Designing Workshop,Practical,45,46.0,A+,91.0
+3,2024-25,BCC351,Internship Assessment/Mini Project,Practical,80,,,80.0
+4,2024-25,BAS403,Mathematics-IV,Theory,27,35.0,B,62.0
+4,2024-25,BVE401,Universal Human Values and Professional Ethics,Theory,28,39.0,B,67.0
+4,2024-25,BCS401,Operating System,Theory,27,31.0,C,58.0
+4,2024-25,BCS402,Theory of Automata and Formal Languages,Theory,27,51.0,B+,78.0
+4,2024-25,BCS403,Object Oriented Programming with Java,Theory,25,48.0,B+,73.0
+4,2024-25,BCC402,Python programming,Theory,27,51.0,B+,78.0
+4,2024-25,BCS451,Operating System Lab,Practical,46,46.0,A+,92.0
+4,2024-25,BCS452,Object Oriented Programming with Java Lab,Practical,45,45.0,A+,90.0
+4,2024-25,BCS453,Cyber Security Workshop,Practical,43,43.0,A,86.0
+4,2024-25,BVA451,Sports and Yoga - II,Practical,91,,,91.0
+5,2025-26,BCS501,Database Management System,Theory,25,41.0,B,66.0
+5,2025-26,BCAI501,Artificial Intelligence,Theory,26,42.0,B,68.0
+5,2025-26,BCS503,Design and Analysis of Algorithm,Theory,27,35.0,B,62.0
+5,2025-26,BCS054,Object Oriented System Design with C++,Theory,26,51.0,B+,77.0
+5,2025-26,BCS056,Application of Soft Computing,Theory,26,43.0,B,69.0
+5,2025-26,BCS551,Database Management System Lab,Practical,43,46.0,A,89.0
+5,2025-26,BCAI551,Artificial Intelligence Lab,Practical,45,47.0,A+,92.0
+5,2025-26,BCS553,Design and Analysis of Algorithm Lab,Practical,45,46.0,A+,91.0
+5,2025-26,BCS554,Mini Project or Internship Assessment,Practical,88,,A,88.0
+5,2025-26,BNC501,Constitution of India,CA,26,36.0,,62.0
+6,2025-26,BCS601,Software Engineering,Theory,27,40.0,B,67.0
+6,2025-26,BCAI601,Machine Learning Techniques,Theory,26,54.0,A,80.0
+6,2025-26,BCS603,Computer Networks,Theory,27,44.0,B+,71.0
+6,2025-26,BCAM061,Social Media Analytics and Data Analysis,Theory,27,43.0,B+,70.0
+6,2025-26,BOE060,IDEA TO BUSINESS MODEL,Theory,27,51.0,B+,78.0
+6,2025-26,BCS651,Software Engineering Lab,Practical,45,48.0,A+,93.0
+6,2025-26,BCAI651,Machine Learning Lab,Practical,44,49.0,A+,93.0
+6,2025-26,BCS653,Computer Networks Lab,Practical,45,49.0,A+,94.0
+6,2025-26,BNC602,Essence of Indian Traditional Knowledge,CA,26,49.0,,75.0
