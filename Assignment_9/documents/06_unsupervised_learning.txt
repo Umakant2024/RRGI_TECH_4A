@@ -1,0 +1,1 @@
+Unsupervised learning finds structure in data that does not have labeled target values. Clustering groups similar records, dimensionality reduction compresses information while retaining useful structure, and association methods discover relationships between items. Examples include customer segmentation and grouping news articles by topic.
