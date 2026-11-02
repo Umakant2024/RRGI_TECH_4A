@@ -1,0 +1,1201 @@
+brand,model,year,km_driven,fuel,transmission,owner_count,seller_type,selling_price_lakh
+Maruti Suzuki,Brezza,2012,240000,Diesel,Automatic,1,Individual,1.21
+Kia,Seltos,2019,57255,Petrol,Manual,1,Dealer,5.19
+Mahindra,XUV700,2022,67410,Petrol,Manual,1,Individual,6.47
+Honda,WR-V,2019,39462,Petrol,Manual,3,Individual,1.84
+Honda,Jazz,2017,76830,CNG,Manual,2,Dealer,2.47
+Kia,Carens,2023,33495,Petrol,Manual,1,Dealer,7.55
+Maruti Suzuki,Dzire,2017,61691,CNG,Manual,1,Individual,2.32
+Mahindra,XUV300,2021,40953,CNG,Manual,2,Individual,5.08
+Hyundai,i20,2018,69306,Petrol,Manual,1,Individual,2.21
+Maruti Suzuki,Brezza,2012,111590,Diesel,Automatic,2,Individual,0.74
+Toyota,Innova,2019,90547,Diesel,Manual,1,Dealer,5.56
+Renault,Kiger,2012,131198,Petrol,Automatic,2,Individual,0.45
+Mahindra,Scorpio,2025,24165,Petrol,Automatic,2,Individual,8.99
+Kia,Carens,2020,69613,Diesel,Manual,1,Individual,5.44
+Mahindra,Bolero,2017,101041,Diesel,Manual,1,Individual,3.0
+Kia,Sonet,2018,55531,Diesel,Manual,2,Dealer,3.31
+Toyota,Innova,2020,94916,Electric,Manual,1,Individual,6.5
+Hyundai,Venue,2015,161097,Petrol,Manual,1,Individual,1.89
+Kia,Carens,2016,122681,Diesel,Automatic,1,Individual,3.0
+Honda,Amaze,2017,52869,Diesel,Manual,1,Individual,2.33
+Toyota,Innova,2015,126665,Petrol,Manual,1,Individual,3.57
+Tata,Nexon,2022,26544,Petrol,Manual,1,Individual,4.6
+Hyundai,Creta,2013,225330,Petrol,Manual,1,Dealer,1.72
+Renault,Triber,2023,43370,Diesel,Manual,2,Dealer,4.17
+Kia,Seltos,2016,128506,Petrol,Manual,1,Dealer,2.84
+Mahindra,XUV700,2019,21968,Diesel,Automatic,1,Dealer,5.1
+Honda,City,2014,95829,Petrol,Manual,1,Individual,2.7
+Kia,Carens,2017,106093,Petrol,Manual,2,Individual,3.63
+Toyota,Glanza,2022,58054,Diesel,Manual,1,Individual,5.09
+Honda,Amaze,2015,161648,Petrol,Manual,2,Dealer,1.59
+Honda,WR-V,2013,91132,CNG,Automatic,1,Individual,1.61
+Hyundai,Venue,2019,87474,Petrol,Automatic,1,Individual,3.13
+Maruti Suzuki,Brezza,2014,183832,CNG,Automatic,3,Individual,0.79
+Toyota,Innova,2016,63340,Petrol,Manual,2,Individual,2.51
+Renault,Triber,2018,105071,Electric,Manual,1,Dealer,2.31
+Maruti Suzuki,Baleno,2019,84043,Diesel,Automatic,1,Dealer,2.93
+Kia,Sonet,2020,86127,Petrol,Manual,1,Individual,4.57
+Kia,Sonet,2021,23011,Petrol,Manual,1,Dealer,5.6
+Tata,Altroz,2023,25708,Petrol,Manual,2,Individual,3.92
+Mahindra,Bolero,2012,125236,Diesel,Manual,2,Individual,1.97
+Hyundai,Verna,2017,118545,Diesel,Automatic,1,Individual,3.02
+Kia,Carens,2012,134950,Petrol,Manual,1,Dealer,2.38
+Mahindra,XUV700,2012,128811,Petrol,Automatic,1,Individual,1.87
+Tata,Nexon,2014,141965,Diesel,Manual,1,Individual,1.27
+Maruti Suzuki,Brezza,2020,83372,Petrol,Manual,2,Dealer,3.65
+Renault,Kiger,2024,43712,Diesel,Manual,1,Individual,4.3
+Honda,WR-V,2022,26278,Petrol,Manual,1,Individual,4.73
+Renault,Triber,2021,56324,Diesel,Manual,1,Dealer,3.51
+Mahindra,Scorpio,2022,17787,Electric,Manual,3,Dealer,6.59
+Kia,Carens,2014,129581,Petrol,Manual,1,Dealer,2.47
+Kia,Sonet,2023,47097,Petrol,Automatic,1,Dealer,7.51
+Hyundai,Verna,2024,23550,Petrol,Manual,1,Individual,6.67
+Tata,Tiago,2013,188862,Petrol,Manual,1,Individual,1.01
+Honda,WR-V,2018,62605,Petrol,Manual,1,Dealer,3.5
+Honda,Jazz,2023,14018,CNG,Automatic,1,Individual,5.8
+Maruti Suzuki,Swift,2018,91797,Diesel,Manual,1,Individual,1.97
+Toyota,Glanza,2023,37618,Petrol,Manual,1,Dealer,7.29
+Hyundai,Verna,2025,25917,Diesel,Manual,2,Individual,6.21
+Mahindra,XUV300,2018,71502,Petrol,Manual,1,Individual,2.96
+Mahindra,XUV700,2012,175453,Diesel,Manual,1,Dealer,1.92
+Renault,Kwid,2016,150416,Petrol,Manual,1,Dealer,1.69
+Mahindra,XUV700,2015,141322,Diesel,Automatic,2,Dealer,2.72
+Tata,Nexon,2018,61875,CNG,Manual,2,Dealer,2.99
+Renault,Kiger,2020,15278,Diesel,Manual,2,Individual,1.93
+Honda,City,2018,123704,Diesel,Manual,1,Dealer,3.23
+Tata,Tiago,2014,181933,Petrol,Manual,1,Individual,0.45
+Renault,Kwid,2016,123003,Diesel,Manual,1,Dealer,1.58
+Tata,Altroz,2021,41721,Petrol,Manual,1,Individual,3.01
+Maruti Suzuki,Brezza,2012,182318,Diesel,Manual,1,Dealer,0.45
+Honda,City,2014,171401,Petrol,Manual,1,Individual,1.97
+Kia,Seltos,2024,22393,Petrol,Manual,1,Dealer,8.78
+Hyundai,i10,2013,96644,Petrol,Automatic,1,Individual,1.25
+Honda,WR-V,2017,95707,Petrol,Manual,1,Individual,2.72
+Hyundai,Venue,2014,158696,Diesel,Manual,1,Individual,1.8
+Mahindra,XUV700,2013,149606,Diesel,Automatic,2,Individual,1.84
+Honda,Jazz,2017,55025,CNG,Automatic,1,Dealer,2.44
+Tata,Punch,2019,91358,Petrol,Manual,2,Individual,2.66
+Hyundai,Venue,2014,164136,CNG,Automatic,1,Individual,1.87
+Toyota,Glanza,2013,150027,Petrol,Manual,2,Individual,1.72
+Mahindra,XUV700,2013,152025,Petrol,Manual,2,Individual,1.82
+Renault,Kiger,2021,52401,Diesel,Automatic,1,Dealer,3.06
+Honda,Jazz,2024,27112,Petrol,Automatic,3,Individual,6.13
+Hyundai,i20,2014,95693,Petrol,Manual,1,Individual,1.55
+Kia,Carens,2016,103802,Petrol,Manual,1,Individual,2.72
+Mahindra,Scorpio,2016,109161,Petrol,Manual,2,Individual,2.74
+Mahindra,Bolero,2017,115915,Diesel,Manual,1,Dealer,2.82
+Maruti Suzuki,Brezza,2015,62869,Petrol,Automatic,1,Individual,2.37
+Tata,Altroz,2012,95307,Petrol,Manual,1,Individual,0.47
+Kia,Sonet,2019,29119,Petrol,Manual,1,Dealer,4.1
+Kia,Seltos,2017,105294,Petrol,Manual,1,Individual,3.43
+Honda,City,2016,79442,Diesel,Manual,1,Individual,3.56
+Kia,Carens,2015,115853,CNG,Manual,1,Individual,2.99
+Kia,Seltos,2025,31852,Diesel,Automatic,1,Dealer,9.34
+Honda,City,2020,65640,CNG,Manual,1,Individual,5.04
+Renault,Kiger,2017,96818,Petrol,Manual,1,Individual,2.27
+Tata,Nexon,2014,110470,Diesel,Manual,1,Dealer,1.15
+Hyundai,i20,2023,42194,Petrol,Manual,1,Dealer,3.86
+Mahindra,XUV300,2024,24529,Petrol,Manual,1,Individual,7.15
+Mahindra,XUV300,2012,109618,Diesel,Manual,2,Dealer,1.85
+Hyundai,i10,2025,10543,Petrol,Manual,3,Individual,5.73
+Kia,Carens,2021,69454,CNG,Manual,1,Dealer,5.09
+Hyundai,Verna,2013,151146,Diesel,Automatic,1,Dealer,2.25
+Kia,Carens,2022,25960,CNG,Manual,2,Individual,5.07
+Maruti Suzuki,Brezza,2013,180558,Petrol,Manual,2,Individual,0.46
+Kia,Seltos,2012,105401,Petrol,Manual,1,Individual,1.74
+Kia,Carens,2013,224978,Diesel,Manual,1,Dealer,2.04
+Kia,Sonet,2018,116922,Petrol,Automatic,1,Individual,4.44
+Mahindra,Bolero,2020,70665,Petrol,Manual,1,Individual,4.88
+Honda,Amaze,2017,104069,Diesel,Manual,3,Dealer,1.46
+Mahindra,XUV700,2013,135369,Electric,Manual,1,Dealer,2.77
+Tata,Nexon,2014,161407,Diesel,Automatic,1,Individual,1.79
+Kia,Seltos,2023,53707,Petrol,Manual,1,Dealer,6.65
+Toyota,Urban Cruiser,2025,7800,Petrol,Manual,2,Individual,6.92
+Honda,WR-V,2022,66751,Diesel,Manual,1,Dealer,5.29
+Toyota,Urban Cruiser,2013,120206,Petrol,Manual,2,Individual,1.4
+Toyota,Etios,2023,14873,Petrol,Automatic,1,Individual,5.85
+Maruti Suzuki,Wagon R,2021,46097,Petrol,Manual,1,Dealer,2.84
+Hyundai,Verna,2019,67332,Petrol,Manual,1,Individual,3.54
+Hyundai,Verna,2014,52217,Petrol,Manual,1,Individual,1.91
+Maruti Suzuki,Baleno,2025,17746,Petrol,Automatic,3,Individual,5.24
+Honda,City,2018,118054,Diesel,Manual,1,Dealer,4.25
+Mahindra,Scorpio,2012,203266,Petrol,Manual,1,Dealer,1.9
+Mahindra,XUV300,2014,79038,Diesel,Automatic,1,Dealer,2.31
+Honda,WR-V,2017,115711,Petrol,Manual,1,Dealer,2.27
+Kia,Carens,2012,204622,CNG,Automatic,1,Dealer,1.6
+Toyota,Glanza,2016,97676,Petrol,Automatic,2,Individual,2.15
+Maruti Suzuki,Wagon R,2018,86372,Petrol,Manual,1,Individual,2.03
+Kia,Sonet,2025,4366,Petrol,Manual,1,Dealer,8.15
+Toyota,Innova,2013,159989,Petrol,Manual,1,Dealer,1.91
+Mahindra,Scorpio,2020,35962,Petrol,Manual,1,Dealer,4.89
+Toyota,Etios,2024,18224,Diesel,Manual,1,Dealer,6.46
+Toyota,Innova,2023,23053,CNG,Automatic,1,Individual,8.62
+Maruti Suzuki,Dzire,2024,39168,Petrol,Manual,1,Dealer,4.14
+Toyota,Urban Cruiser,2014,182722,Petrol,Manual,2,Dealer,1.54
+Kia,Seltos,2023,22330,Diesel,Manual,2,Dealer,6.62
+Tata,Harrier,2025,21235,Diesel,Manual,2,Dealer,6.8
+Toyota,Innova,2016,33165,Petrol,Manual,1,Individual,3.68
+Maruti Suzuki,Baleno,2018,100441,Diesel,Automatic,1,Dealer,2.91
+Tata,Punch,2019,54134,Petrol,Manual,2,Individual,1.69
+Honda,Amaze,2018,62578,Diesel,Manual,1,Dealer,3.19
+Renault,Triber,2016,117931,Petrol,Manual,1,Individual,1.55
+Hyundai,i10,2025,34192,Petrol,Manual,1,Individual,6.06
+Tata,Tiago,2025,17970,Petrol,Automatic,2,Individual,5.08
+Honda,Jazz,2017,73368,Diesel,Manual,1,Individual,1.78
+Renault,Kwid,2023,41562,Petrol,Manual,1,Individual,2.9
+Kia,Carens,2017,124676,Diesel,Manual,1,Dealer,2.88
+Maruti Suzuki,Brezza,2023,45778,Diesel,Manual,1,Individual,5.25
+Hyundai,Venue,2020,79179,Diesel,Manual,1,Dealer,2.79
+Kia,Carens,2018,59727,Petrol,Automatic,1,Individual,3.97
+Maruti Suzuki,Dzire,2013,150430,Petrol,Automatic,1,Individual,1.42
+Kia,Sonet,2021,61175,Petrol,Manual,2,Dealer,5.19
+Tata,Altroz,2016,82030,Diesel,Manual,2,Dealer,2.12
+Renault,Triber,2015,127698,CNG,Manual,1,Individual,0.48
+Tata,Harrier,2014,103382,Petrol,Manual,3,Dealer,0.54
+Honda,City,2025,29286,CNG,Manual,1,Dealer,8.53
+Mahindra,Scorpio,2013,180617,Petrol,Manual,2,Individual,1.61
+Hyundai,i20,2023,16290,Petrol,Manual,1,Dealer,5.08
+Toyota,Glanza,2024,36490,Petrol,Manual,1,Dealer,6.66
+Toyota,Glanza,2012,22954,Diesel,Manual,1,Dealer,2.09
+Kia,Seltos,2020,49504,Petrol,Manual,1,Individual,4.83
+Renault,Kwid,2020,86154,Petrol,Manual,1,Individual,2.67
+Mahindra,Bolero,2017,82120,Diesel,Manual,1,Individual,4.41
+Honda,Amaze,2021,21553,Petrol,Manual,1,Dealer,4.54
+Honda,City,2017,71335,Petrol,Automatic,1,Dealer,3.09
+Honda,Jazz,2018,117143,Petrol,Manual,1,Individual,1.65
+Kia,Sonet,2018,46686,Petrol,Manual,3,Dealer,2.71
+Tata,Altroz,2023,52799,Petrol,Manual,1,Individual,5.16
+Hyundai,Verna,2020,69368,Petrol,Manual,3,Individual,2.8
+Tata,Harrier,2017,70725,Diesel,Manual,1,Dealer,2.73
+Maruti Suzuki,Wagon R,2024,21841,Petrol,Manual,1,Individual,4.47
+Maruti Suzuki,Brezza,2023,30863,Diesel,Manual,1,Individual,5.63
+Maruti Suzuki,Baleno,2025,11010,Petrol,Manual,1,Individual,5.9
+Kia,Seltos,2022,60072,Petrol,Automatic,1,Individual,6.75
+Mahindra,Scorpio,2017,56672,Petrol,Automatic,2,Dealer,3.75
+Mahindra,XUV700,2022,35137,Petrol,Manual,1,Dealer,6.41
+Honda,WR-V,2016,82896,Petrol,Manual,2,Individual,1.73
+Mahindra,XUV700,2015,159795,Petrol,Manual,1,Individual,2.73
+Hyundai,Venue,2018,49172,CNG,Manual,1,Individual,3.2
+Renault,Triber,2025,9384,Diesel,Manual,1,Individual,6.12
+Toyota,Innova,2019,90411,Petrol,Manual,3,Individual,4.2
+Renault,Kiger,2017,76693,Petrol,Manual,1,Individual,2.28
+Hyundai,i20,2018,77036,Petrol,Manual,1,Dealer,2.23
+Honda,Amaze,2016,104070,Diesel,Manual,1,Individual,2.5
+Mahindra,XUV700,2021,35213,Petrol,Manual,1,Individual,5.69
+Honda,Amaze,2016,143352,Petrol,Manual,4,Individual,1.31
+Honda,City,2019,48719,Petrol,Manual,2,Dealer,4.06
+Hyundai,Verna,2017,39257,Petrol,Manual,2,Individual,2.56
+Honda,Amaze,2016,93872,Petrol,Automatic,4,Individual,2.57
+Hyundai,Creta,2025,13454,CNG,Automatic,2,Dealer,8.36
+Tata,Harrier,2016,94287,CNG,Manual,1,Individual,2.85
+Mahindra,Scorpio,2012,110133,Petrol,Manual,1,Dealer,2.22
+Mahindra,XUV300,2017,92176,Petrol,Manual,1,Individual,3.82
+Toyota,Urban Cruiser,2019,125713,Petrol,Manual,1,Dealer,3.15
+Tata,Punch,2013,146551,Petrol,Manual,1,Dealer,1.58
+Renault,Kwid,2016,108761,Petrol,Manual,1,Individual,0.77
+Maruti Suzuki,Dzire,2014,66971,Petrol,Manual,3,Dealer,0.45
+Tata,Punch,2019,62510,Diesel,Automatic,4,Individual,2.66
+Maruti Suzuki,Wagon R,2022,43673,Electric,Manual,1,Dealer,4.72
+Tata,Tiago,2025,4456,Diesel,Manual,2,Dealer,4.75
+Renault,Kwid,2017,152369,Diesel,Manual,1,Dealer,1.1
+Tata,Harrier,2024,15667,Petrol,Manual,1,Dealer,6.37
+Renault,Kwid,2015,95850,Petrol,Manual,1,Individual,1.0
+Honda,Amaze,2022,32516,Petrol,Automatic,1,Individual,5.5
+Mahindra,Scorpio,2019,81665,Diesel,Automatic,1,Individual,6.49
+Honda,City,2022,44268,Petrol,Manual,1,Dealer,5.82
+Tata,Tiago,2022,49080,Diesel,Automatic,1,Dealer,3.87
+Kia,Seltos,2019,79976,Petrol,Manual,1,Dealer,4.08
+Renault,Kiger,2015,88200,Petrol,Manual,3,Individual,0.64
+Tata,Tiago,2019,92770,Petrol,Manual,1,Individual,1.97
+Kia,Sonet,2023,30027,CNG,Manual,1,Dealer,7.18
+Tata,Tiago,2025,9020,Petrol,Manual,1,Dealer,5.37
+Mahindra,XUV300,2024,14067,Petrol,Manual,1,Individual,7.04
+Kia,Sonet,2014,149703,Petrol,Manual,1,Individual,2.91
+Honda,WR-V,2020,74114,Diesel,Automatic,1,Individual,3.83
+Mahindra,XUV300,2013,135627,Electric,Manual,1,Individual,2.0
+Tata,Punch,2021,68941,Petrol,Automatic,1,Dealer,4.13
+Maruti Suzuki,Wagon R,2025,21322,CNG,Manual,1,Individual,5.1
+Maruti Suzuki,Dzire,2012,99720,Petrol,Automatic,1,Individual,1.43
+Honda,WR-V,2021,52204,Diesel,Manual,1,Individual,4.59
+Renault,Triber,2025,18072,Petrol,Manual,1,Individual,5.31
+Hyundai,Creta,2023,40357,Petrol,Manual,1,Dealer,5.67
+Honda,WR-V,2017,151133,Diesel,Automatic,1,Individual,2.97
+Mahindra,XUV300,2013,165628,Petrol,Manual,1,Individual,1.93
+Hyundai,Venue,2024,17221,Petrol,Manual,1,Individual,6.8
+Mahindra,Scorpio,2024,7432,Diesel,Automatic,1,Dealer,8.43
+Tata,Harrier,2020,61475,Electric,Manual,1,Dealer,4.3
+Kia,Carens,2025,20342,Petrol,Automatic,1,Individual,9.48
+Toyota,Urban Cruiser,2012,123689,Diesel,Manual,1,Individual,0.48
+Toyota,Etios,2020,48754,Diesel,Manual,1,Individual,4.59
+Hyundai,Venue,2012,151076,Petrol,Manual,2,Individual,1.26
+Honda,Amaze,2025,5812,Diesel,Manual,3,Individual,6.24
+Kia,Sonet,2021,41026,Petrol,Manual,3,Dealer,4.81
+Maruti Suzuki,Swift,2024,3673,Diesel,Manual,1,Dealer,4.68
+Kia,Seltos,2019,73031,Petrol,Manual,1,Individual,4.44
+Honda,Amaze,2013,155967,Petrol,Automatic,1,Individual,1.15
+Mahindra,Bolero,2012,163240,Petrol,Automatic,1,Individual,1.17
+Mahindra,Scorpio,2016,129079,Petrol,Manual,1,Individual,2.75
+Honda,Jazz,2022,46966,Diesel,Manual,1,Individual,4.83
+Tata,Altroz,2014,156638,Electric,Manual,1,Individual,1.42
+Mahindra,XUV700,2023,26399,Petrol,Automatic,1,Dealer,8.66
+Hyundai,Venue,2015,115213,Petrol,Automatic,1,Individual,1.92
+Toyota,Innova,2018,85658,Petrol,Manual,1,Dealer,4.25
+Maruti Suzuki,Brezza,2014,211840,Petrol,Manual,3,Individual,0.45
+Mahindra,Scorpio,2018,71693,Petrol,Automatic,1,Individual,4.16
+Mahindra,Bolero,2018,83588,Diesel,Automatic,1,Individual,3.18
+Maruti Suzuki,Swift,2012,168381,Diesel,Manual,3,Dealer,0.45
+Kia,Carens,2019,95186,Petrol,Automatic,1,Individual,3.98
+Honda,WR-V,2023,27303,Petrol,Manual,1,Individual,5.43
+Kia,Carens,2025,15664,Diesel,Manual,1,Dealer,9.43
+Maruti Suzuki,Swift,2016,111782,Petrol,Automatic,1,Dealer,1.04
+Hyundai,i20,2024,22094,Petrol,Manual,1,Dealer,5.34
+Honda,City,2024,43817,Petrol,Manual,2,Individual,6.16
+Hyundai,i10,2025,12018,Petrol,Automatic,2,Individual,5.72
+Tata,Altroz,2017,63493,Petrol,Automatic,2,Dealer,2.63
+Mahindra,XUV300,2023,52945,Diesel,Manual,4,Individual,5.56
+Hyundai,i10,2019,100298,Petrol,Manual,1,Individual,2.55
+Mahindra,XUV700,2012,141291,Diesel,Automatic,2,Individual,2.29
+Maruti Suzuki,Dzire,2015,186645,Petrol,Manual,1,Individual,1.02
+Hyundai,i20,2021,64712,CNG,Automatic,1,Dealer,3.89
+Toyota,Innova,2014,116752,Petrol,Manual,2,Dealer,2.21
+Kia,Carens,2018,84178,Petrol,Manual,2,Individual,3.18
+Hyundai,i20,2022,76788,Petrol,Manual,2,Dealer,4.15
+Tata,Tiago,2014,159319,Petrol,Automatic,1,Individual,1.3
+Renault,Kwid,2018,103645,Petrol,Automatic,1,Individual,1.27
+Renault,Kiger,2015,93546,Diesel,Manual,1,Individual,1.5
+Toyota,Glanza,2019,64795,Petrol,Manual,1,Dealer,3.97
+Honda,Jazz,2015,99601,Petrol,Automatic,2,Individual,2.04
+Tata,Altroz,2025,13783,Petrol,Manual,2,Individual,5.86
+Toyota,Urban Cruiser,2013,74352,Diesel,Manual,1,Dealer,2.25
+Toyota,Glanza,2025,8162,Diesel,Automatic,1,Individual,8.75
+Tata,Harrier,2023,10894,Diesel,Automatic,1,Dealer,6.77
+Maruti Suzuki,Wagon R,2023,44627,Petrol,Automatic,1,Individual,3.7
+Hyundai,Verna,2023,17382,Diesel,Manual,1,Individual,5.24
+Renault,Kwid,2014,176747,Diesel,Manual,3,Dealer,0.45
+Honda,WR-V,2025,29019,Petrol,Automatic,1,Individual,7.09
+Honda,Amaze,2020,69909,Petrol,Manual,3,Individual,2.77
+Honda,Amaze,2025,22927,Diesel,Manual,1,Dealer,7.13
+Kia,Seltos,2024,21880,Petrol,Automatic,2,Dealer,7.67
+Maruti Suzuki,Baleno,2020,87605,Diesel,Manual,1,Dealer,3.09
+Maruti Suzuki,Dzire,2017,97151,Petrol,Automatic,1,Dealer,2.03
+Tata,Tiago,2013,190369,Petrol,Manual,1,Individual,0.45
+Honda,City,2013,109253,Petrol,Automatic,2,Individual,1.81
+Mahindra,Scorpio,2017,96468,Diesel,Manual,3,Individual,2.95
+Honda,City,2023,56493,Diesel,Manual,1,Individual,6.48
+Honda,Amaze,2019,84757,Petrol,Automatic,1,Dealer,3.73
+Renault,Kiger,2018,140656,Petrol,Manual,1,Individual,2.14
+Hyundai,i10,2015,96209,Petrol,Manual,2,Individual,1.31
+Toyota,Glanza,2019,52458,Petrol,Manual,1,Individual,3.74
+Toyota,Glanza,2020,52278,Electric,Automatic,1,Individual,5.4
+Honda,Jazz,2025,9175,Petrol,Automatic,1,Individual,7.47
+Kia,Sonet,2022,39874,Petrol,Manual,1,Individual,5.76
+Tata,Nexon,2020,78686,Petrol,Manual,2,Individual,3.13
+Renault,Kwid,2024,20671,Electric,Manual,2,Individual,4.49
+Tata,Altroz,2017,133079,Petrol,Automatic,2,Individual,1.82
+Toyota,Etios,2025,11133,Diesel,Automatic,2,Dealer,7.53
+Toyota,Etios,2017,118826,Petrol,Automatic,2,Individual,1.85
+Kia,Seltos,2013,240000,Petrol,Manual,1,Individual,1.79
+Honda,WR-V,2017,106350,Diesel,Manual,3,Individual,2.42
+Tata,Nexon,2013,169177,Petrol,Automatic,1,Individual,0.47
+Maruti Suzuki,Brezza,2013,114522,Diesel,Automatic,1,Dealer,1.58
+Tata,Nexon,2024,30857,Petrol,Manual,2,Dealer,5.87
+Kia,Sonet,2023,21948,Diesel,Manual,1,Dealer,7.49
+Maruti Suzuki,Baleno,2015,78655,Diesel,Manual,1,Dealer,1.69
+Renault,Kwid,2023,23683,Diesel,Manual,1,Individual,3.26
+Toyota,Innova,2012,218239,Petrol,Manual,1,Individual,1.44
+Hyundai,i20,2015,133409,Diesel,Manual,3,Individual,1.26
+Tata,Harrier,2021,79694,Electric,Manual,1,Individual,5.18
+Toyota,Etios,2016,95206,Petrol,Automatic,1,Individual,2.59
+Tata,Harrier,2022,48738,Petrol,Automatic,1,Individual,4.88
+Maruti Suzuki,Wagon R,2024,4678,Diesel,Automatic,1,Individual,5.18
+Mahindra,Scorpio,2012,150162,Petrol,Manual,1,Individual,1.91
+Mahindra,Bolero,2012,172644,Diesel,Manual,1,Dealer,1.46
+Maruti Suzuki,Wagon R,2025,6687,Diesel,Manual,1,Dealer,5.1
+Tata,Altroz,2019,81650,Petrol,Manual,1,Dealer,3.45
+Hyundai,i20,2019,43722,Petrol,Manual,1,Individual,2.9
+Mahindra,XUV700,2018,36594,Petrol,Automatic,1,Individual,5.1
+Mahindra,Scorpio,2018,78532,Petrol,Automatic,2,Dealer,3.79
+Mahindra,Bolero,2021,39235,CNG,Automatic,1,Dealer,5.97
+Renault,Triber,2020,31986,Petrol,Manual,1,Individual,3.3
+Kia,Seltos,2014,139287,Petrol,Manual,3,Individual,1.64
+Tata,Harrier,2020,47932,Diesel,Manual,1,Individual,4.88
+Maruti Suzuki,Wagon R,2021,15340,Petrol,Manual,1,Dealer,3.26
+Toyota,Glanza,2013,99433,Diesel,Manual,2,Dealer,1.29
+Renault,Kwid,2017,128665,Petrol,Manual,1,Individual,1.13
+Renault,Triber,2023,47901,Petrol,Automatic,2,Individual,4.4
+Hyundai,i10,2020,40277,Petrol,Manual,2,Individual,3.28
+Hyundai,i20,2013,161136,Diesel,Automatic,3,Individual,0.45
+Maruti Suzuki,Swift,2012,190398,Diesel,Automatic,3,Dealer,0.45
+Hyundai,i10,2020,93010,Diesel,Manual,1,Individual,3.21
+Toyota,Urban Cruiser,2018,72971,Electric,Automatic,2,Individual,3.91
+Toyota,Glanza,2025,24735,Diesel,Manual,1,Individual,9.3
+Tata,Tiago,2019,60341,Diesel,Automatic,1,Dealer,3.04
+Tata,Harrier,2025,6711,Petrol,Automatic,1,Individual,7.55
+Kia,Sonet,2015,125196,CNG,Automatic,1,Individual,3.18
+Honda,WR-V,2018,107886,Diesel,Automatic,1,Dealer,2.99
+Kia,Sonet,2013,142038,CNG,Manual,1,Dealer,2.27
+Renault,Kwid,2020,89259,Petrol,Automatic,1,Dealer,1.75
+Tata,Tiago,2014,128802,Petrol,Manual,1,Dealer,0.88
+Hyundai,Venue,2018,115291,Diesel,Manual,3,Individual,2.84
+Renault,Triber,2016,142288,Petrol,Manual,1,Dealer,1.94
+Mahindra,Scorpio,2014,99496,Petrol,Automatic,2,Dealer,2.05
+Tata,Altroz,2013,61867,Electric,Manual,2,Individual,1.09
+Toyota,Glanza,2019,114589,Petrol,Manual,2,Dealer,3.76
+Toyota,Innova,2025,21823,Petrol,Automatic,1,Individual,9.5
+Renault,Kwid,2014,85781,Petrol,Manual,2,Individual,0.58
+Tata,Nexon,2017,88336,Petrol,Manual,2,Individual,2.49
+Renault,Kiger,2015,157429,Diesel,Manual,2,Individual,0.63
+Renault,Kiger,2023,64700,CNG,Manual,3,Dealer,2.37
+Hyundai,Verna,2017,89912,Electric,Automatic,1,Individual,2.8
+Hyundai,i10,2025,24829,Diesel,Manual,1,Individual,5.88
+Toyota,Etios,2015,90675,Diesel,Manual,2,Individual,1.25
+Maruti Suzuki,Brezza,2013,98207,Petrol,Automatic,1,Individual,1.28
+Tata,Nexon,2020,67619,Diesel,Manual,2,Individual,2.85
+Honda,Jazz,2021,58685,Petrol,Automatic,1,Individual,5.19
+Renault,Triber,2025,23564,Petrol,Manual,1,Dealer,5.76
+Renault,Kwid,2024,30090,Electric,Automatic,1,Dealer,4.89
+Hyundai,Creta,2024,28653,Diesel,Manual,1,Individual,7.07
+Renault,Kiger,2020,88270,Petrol,Manual,3,Dealer,1.57
+Maruti Suzuki,Brezza,2017,100666,Diesel,Manual,1,Dealer,2.16
+Mahindra,XUV700,2018,88987,Petrol,Manual,2,Individual,4.57
+Kia,Sonet,2013,139273,Petrol,Manual,1,Individual,1.65
+Renault,Kwid,2018,105859,Petrol,Automatic,3,Individual,1.15
+Hyundai,i20,2017,129488,Petrol,Manual,1,Dealer,1.74
+Renault,Kiger,2012,160807,Petrol,Manual,1,Individual,1.02
+Maruti Suzuki,Dzire,2014,129566,Petrol,Manual,1,Individual,0.45
+Toyota,Etios,2019,62030,Petrol,Manual,1,Dealer,3.51
+Honda,WR-V,2017,109237,Petrol,Manual,4,Individual,1.56
+Tata,Punch,2025,24511,CNG,Automatic,3,Dealer,5.44
+Maruti Suzuki,Brezza,2018,96784,Diesel,Automatic,1,Individual,3.21
+Kia,Carens,2025,28413,CNG,Manual,1,Dealer,9.16
+Tata,Tiago,2021,49761,Petrol,Manual,1,Individual,2.61
+Mahindra,Scorpio,2012,164180,Diesel,Manual,1,Individual,2.61
+Honda,Jazz,2014,169416,Diesel,Manual,1,Dealer,0.87
+Tata,Harrier,2021,59257,Petrol,Manual,1,Individual,4.95
+Renault,Kwid,2019,130520,Petrol,Manual,1,Dealer,1.78
+Maruti Suzuki,Baleno,2016,79047,Petrol,Automatic,2,Dealer,1.69
+Mahindra,XUV300,2019,81784,Petrol,Manual,1,Individual,3.78
+Mahindra,XUV700,2024,21449,Petrol,Manual,1,Individual,8.32
+Honda,City,2017,86562,Petrol,Manual,1,Dealer,3.16
+Tata,Punch,2012,160684,Petrol,Manual,1,Individual,0.45
+Maruti Suzuki,Baleno,2016,141961,Diesel,Manual,1,Dealer,1.73
+Renault,Kwid,2025,5731,Petrol,Manual,1,Individual,3.97
+Renault,Triber,2022,46836,Petrol,Automatic,1,Dealer,3.25
+Hyundai,Verna,2023,32106,Diesel,Manual,2,Individual,5.11
+Maruti Suzuki,Wagon R,2024,31515,Petrol,Manual,2,Dealer,3.39
+Maruti Suzuki,Baleno,2013,240000,Petrol,Manual,3,Individual,0.45
+Maruti Suzuki,Brezza,2015,142198,Petrol,Manual,1,Individual,1.65
+Kia,Sonet,2012,105084,Petrol,Manual,1,Dealer,1.81
+Renault,Kiger,2012,118573,Petrol,Manual,1,Dealer,1.56
+Hyundai,i10,2023,30016,Petrol,Manual,1,Individual,3.53
+Mahindra,XUV300,2025,20272,Petrol,Manual,3,Dealer,7.65
+Hyundai,i20,2014,122400,Electric,Automatic,3,Individual,1.43
+Tata,Altroz,2022,39459,CNG,Automatic,1,Individual,4.83
+Toyota,Glanza,2019,77726,Petrol,Manual,1,Individual,4.27
+Mahindra,XUV300,2012,188974,Petrol,Manual,1,Individual,1.15
+Kia,Sonet,2024,28837,Petrol,Automatic,1,Individual,8.25
+Maruti Suzuki,Wagon R,2024,11059,Diesel,Automatic,3,Individual,4.1
+Hyundai,Venue,2019,80072,Diesel,Automatic,1,Individual,4.02
+Tata,Harrier,2021,40077,Petrol,Manual,1,Dealer,3.7
+Tata,Punch,2017,102862,Petrol,Manual,1,Dealer,2.39
+Renault,Kwid,2023,23485,Petrol,Manual,1,Dealer,3.39
+Kia,Carens,2018,96147,CNG,Automatic,1,Individual,3.81
+Tata,Harrier,2025,14775,CNG,Manual,2,Dealer,6.71
+Renault,Kwid,2012,128075,Petrol,Manual,1,Individual,0.46
+Honda,City,2014,72160,Petrol,Manual,1,Dealer,2.74
+Toyota,Urban Cruiser,2025,21818,Petrol,Manual,1,Individual,9.36
+Honda,City,2016,120986,Diesel,Manual,1,Individual,3.2
+Hyundai,Verna,2016,134216,CNG,Manual,1,Individual,1.87
+Renault,Kwid,2023,35654,Petrol,Manual,1,Dealer,3.61
+Maruti Suzuki,Swift,2014,239305,Petrol,Automatic,1,Dealer,1.06
+Hyundai,Venue,2019,37381,Petrol,Manual,1,Dealer,3.14
+Hyundai,i10,2016,89402,Petrol,Manual,2,Dealer,0.99
+Tata,Punch,2014,108585,Diesel,Automatic,2,Dealer,1.3
+Hyundai,Venue,2025,10225,Petrol,Manual,3,Individual,6.67
+Maruti Suzuki,Swift,2014,74258,CNG,Manual,1,Dealer,0.7
+Mahindra,Bolero,2013,114262,Petrol,Manual,2,Individual,1.2
+Renault,Kiger,2021,32195,Petrol,Manual,1,Individual,3.35
+Maruti Suzuki,Dzire,2024,28061,Petrol,Manual,1,Individual,4.19
+Tata,Tiago,2013,137568,Petrol,Manual,1,Dealer,1.46
+Toyota,Urban Cruiser,2021,71448,Petrol,Manual,1,Dealer,4.41
+Renault,Kwid,2019,87080,Diesel,Manual,2,Individual,2.79
+Mahindra,Bolero,2023,32638,Petrol,Manual,1,Individual,5.78
+Kia,Carens,2013,123185,Petrol,Manual,1,Individual,1.07
+Toyota,Glanza,2025,24546,Petrol,Manual,4,Dealer,7.13
+Honda,Jazz,2020,75749,Petrol,Manual,1,Dealer,3.18
+Hyundai,Creta,2023,37403,CNG,Manual,3,Individual,5.42
+Kia,Seltos,2017,63942,CNG,Manual,2,Individual,3.46
+Kia,Seltos,2025,9195,Petrol,Manual,2,Individual,8.96
+Maruti Suzuki,Baleno,2020,72594,Diesel,Automatic,2,Individual,3.09
+Mahindra,Bolero,2013,136198,Diesel,Automatic,1,Individual,2.1
+Maruti Suzuki,Dzire,2024,17995,Electric,Manual,1,Individual,5.22
+Mahindra,XUV700,2023,40312,Petrol,Manual,2,Individual,7.59
+Kia,Sonet,2016,122459,Petrol,Manual,2,Individual,2.49
+Hyundai,Creta,2019,84027,Petrol,Manual,1,Dealer,3.24
+Honda,Amaze,2017,55419,Diesel,Automatic,1,Individual,2.31
+Maruti Suzuki,Dzire,2019,48162,Diesel,Manual,1,Individual,2.42
+Toyota,Glanza,2025,5146,Petrol,Automatic,1,Dealer,8.04
+Renault,Triber,2024,32945,Petrol,Manual,1,Dealer,3.74
+Maruti Suzuki,Swift,2015,61168,Diesel,Manual,2,Individual,1.67
+Honda,Amaze,2025,5884,Diesel,Automatic,2,Individual,6.51
+Renault,Kiger,2018,86757,Petrol,Manual,1,Dealer,2.58
+Tata,Tiago,2021,35475,Diesel,Automatic,1,Individual,3.87
+Hyundai,Verna,2022,31645,Petrol,Manual,1,Dealer,4.9
+Honda,Jazz,2018,79177,Petrol,Automatic,1,Individual,2.68
+Toyota,Glanza,2018,92721,Petrol,Manual,1,Individual,3.79
+Mahindra,Scorpio,2018,84194,Diesel,Manual,1,Individual,4.26
+Tata,Altroz,2024,40389,Electric,Automatic,1,Dealer,6.38
+Renault,Triber,2017,115471,Petrol,Manual,1,Individual,1.7
+Toyota,Urban Cruiser,2015,97662,Petrol,Manual,1,Individual,1.69
+Tata,Harrier,2017,93459,Petrol,Automatic,1,Individual,2.18
+Renault,Kwid,2014,164517,Petrol,Manual,1,Dealer,0.45
+Renault,Kwid,2017,122026,Petrol,Automatic,1,Individual,1.68
+Honda,City,2013,123033,Petrol,Manual,1,Dealer,1.72
+Maruti Suzuki,Dzire,2013,152428,Petrol,Manual,1,Dealer,1.11
+Toyota,Glanza,2022,39314,Petrol,Manual,1,Individual,5.35
+Toyota,Glanza,2013,196528,Petrol,Manual,1,Dealer,1.66
+Hyundai,Creta,2019,114753,Diesel,Automatic,3,Dealer,3.34
+Mahindra,XUV700,2022,24851,Petrol,Manual,1,Individual,6.33
+Kia,Carens,2022,47833,Diesel,Manual,1,Individual,6.55
+Maruti Suzuki,Baleno,2018,90440,CNG,Manual,1,Individual,2.48
+Mahindra,XUV300,2014,136678,Petrol,Manual,2,Individual,1.39
+Hyundai,Venue,2025,14788,Petrol,Manual,2,Individual,6.6
+Mahindra,Bolero,2023,34522,Petrol,Automatic,1,Dealer,6.76
+Honda,Jazz,2020,69859,Diesel,Automatic,1,Dealer,4.09
+Maruti Suzuki,Dzire,2013,108383,Petrol,Automatic,1,Individual,0.83
+Renault,Triber,2012,166495,Petrol,Manual,1,Individual,0.45
+Hyundai,Venue,2016,74806,Petrol,Manual,1,Individual,2.39
+Toyota,Innova,2014,116917,Petrol,Manual,1,Individual,2.09
+Hyundai,Verna,2024,31252,Petrol,Automatic,3,Individual,5.56
+Renault,Kiger,2014,140603,Diesel,Manual,2,Dealer,0.65
+Mahindra,XUV700,2015,146141,Petrol,Manual,1,Dealer,2.93
+Kia,Seltos,2025,41266,Petrol,Manual,4,Individual,8.42
+Honda,Amaze,2023,47087,Diesel,Automatic,1,Dealer,5.7
+Honda,WR-V,2015,121524,Petrol,Automatic,1,Individual,1.75
+Mahindra,XUV300,2017,82500,Diesel,Automatic,2,Dealer,3.46
+Kia,Carens,2019,46264,Petrol,Manual,1,Individual,3.44
+Kia,Sonet,2021,83896,Petrol,Automatic,1,Individual,6.02
+Maruti Suzuki,Dzire,2025,1000,CNG,Manual,1,Dealer,4.03
+Mahindra,XUV700,2024,24580,Petrol,Manual,1,Individual,7.72
+Maruti Suzuki,Dzire,2025,8861,Petrol,Manual,1,Individual,4.52
+Tata,Harrier,2012,148961,CNG,Manual,1,Individual,2.07
+Kia,Sonet,2015,85890,Diesel,Manual,1,Dealer,3.48
+Tata,Tiago,2019,90918,Diesel,Manual,1,Dealer,2.84
+Kia,Carens,2012,226898,Petrol,Manual,1,Individual,1.36
+Honda,Amaze,2016,84673,Petrol,Manual,2,Individual,1.18
+Hyundai,Verna,2014,78122,Diesel,Automatic,1,Dealer,2.15
+Tata,Nexon,2025,14781,Petrol,Manual,1,Individual,6.19
+Toyota,Etios,2012,185114,Petrol,Manual,2,Individual,0.45
+Kia,Carens,2014,103882,Diesel,Manual,2,Dealer,2.17
+Toyota,Glanza,2014,66031,Petrol,Automatic,1,Individual,2.21
+Renault,Kiger,2014,112192,Petrol,Manual,2,Dealer,1.14
+Kia,Carens,2019,71891,Petrol,Manual,2,Individual,3.23
+Kia,Seltos,2017,132693,Petrol,Manual,1,Dealer,3.48
+Toyota,Etios,2024,3552,Diesel,Manual,2,Individual,6.35
+Tata,Tiago,2015,124566,Diesel,Manual,2,Individual,0.93
+Honda,Jazz,2019,113031,Petrol,Manual,1,Individual,3.22
+Maruti Suzuki,Dzire,2021,26611,Petrol,Manual,1,Dealer,2.55
+Tata,Tiago,2020,102466,Petrol,Manual,2,Dealer,2.42
+Renault,Triber,2023,16687,Petrol,Manual,4,Dealer,3.01
+Honda,WR-V,2014,146111,Petrol,Manual,1,Individual,1.19
+Maruti Suzuki,Baleno,2019,74594,CNG,Manual,2,Individual,2.42
+Mahindra,Bolero,2023,44634,Petrol,Manual,2,Dealer,6.02
+Renault,Kiger,2024,37248,Petrol,Manual,2,Dealer,3.69
+Kia,Sonet,2020,23374,Electric,Manual,3,Individual,5.25
+Tata,Harrier,2021,30817,Petrol,Manual,1,Dealer,4.42
+Honda,WR-V,2024,13734,CNG,Manual,1,Individual,5.8
+Toyota,Urban Cruiser,2020,50444,Petrol,Manual,1,Individual,5.23
+Hyundai,Creta,2025,21942,Petrol,Manual,1,Dealer,7.64
+Tata,Altroz,2013,194976,CNG,Manual,1,Individual,0.63
+Hyundai,i20,2016,143095,Petrol,Manual,2,Individual,1.59
+Renault,Triber,2013,113626,Petrol,Manual,3,Individual,0.45
+Mahindra,Scorpio,2013,78903,Petrol,Manual,1,Dealer,2.12
+Kia,Carens,2018,86703,Diesel,Automatic,2,Individual,3.77
+Kia,Carens,2015,119703,Petrol,Manual,1,Dealer,1.99
+Renault,Triber,2017,65063,Petrol,Manual,1,Individual,2.01
+Maruti Suzuki,Brezza,2018,116115,Diesel,Automatic,1,Individual,2.55
+Renault,Triber,2020,90945,Diesel,Manual,1,Individual,2.56
+Maruti Suzuki,Baleno,2025,2815,Petrol,Manual,1,Individual,5.78
+Honda,Amaze,2023,13195,Petrol,Manual,2,Individual,6.38
+Toyota,Innova,2017,41316,Petrol,Automatic,1,Individual,3.79
+Tata,Tiago,2016,168129,Petrol,Automatic,1,Dealer,0.6
+Hyundai,Venue,2022,51383,Petrol,Manual,1,Individual,4.16
+Hyundai,Venue,2013,59143,Petrol,Automatic,1,Dealer,2.16
+Kia,Carens,2019,101180,Petrol,Manual,3,Dealer,4.2
+Tata,Nexon,2017,108778,Petrol,Manual,3,Individual,1.46
+Tata,Punch,2014,183177,Diesel,Manual,1,Individual,1.66
+Renault,Kiger,2020,86418,Petrol,Manual,1,Individual,2.85
+Hyundai,Verna,2016,133417,Electric,Manual,1,Individual,2.5
+Renault,Triber,2014,155753,CNG,Automatic,1,Individual,0.92
+Renault,Kwid,2021,75988,Diesel,Manual,1,Individual,2.78
+Toyota,Urban Cruiser,2014,221108,CNG,Manual,1,Individual,1.94
+Hyundai,Creta,2021,73931,Diesel,Manual,1,Individual,5.01
+Hyundai,Venue,2014,67942,Petrol,Manual,1,Dealer,1.59
+Tata,Harrier,2018,88310,Diesel,Manual,1,Individual,3.09
+Toyota,Urban Cruiser,2023,37905,Petrol,Automatic,1,Individual,7.63
+Hyundai,Venue,2015,160014,Diesel,Manual,1,Individual,1.92
+Honda,Jazz,2022,43953,Petrol,Manual,1,Dealer,5.1
+Maruti Suzuki,Swift,2022,76319,Petrol,Manual,1,Individual,3.83
+Toyota,Glanza,2024,31519,Petrol,Automatic,1,Individual,7.71
+Maruti Suzuki,Baleno,2014,239819,CNG,Automatic,1,Dealer,1.04
+Mahindra,Scorpio,2022,48193,Petrol,Manual,2,Individual,6.71
+Maruti Suzuki,Wagon R,2025,11561,Petrol,Manual,3,Individual,4.46
+Hyundai,Verna,2022,49028,Petrol,Manual,1,Individual,4.95
+Hyundai,i10,2014,109740,Petrol,Automatic,2,Dealer,0.88
+Kia,Sonet,2023,41177,Diesel,Automatic,2,Dealer,7.43
+Maruti Suzuki,Brezza,2013,32931,Diesel,Automatic,1,Dealer,1.76
+Honda,WR-V,2020,47748,Petrol,Manual,1,Individual,3.65
+Toyota,Etios,2018,100070,Petrol,Manual,1,Individual,4.26
+Toyota,Urban Cruiser,2019,83932,Petrol,Manual,1,Individual,3.29
+Mahindra,XUV300,2019,120040,Petrol,Manual,4,Dealer,3.34
+Kia,Carens,2012,157076,Diesel,Manual,1,Dealer,1.24
+Honda,WR-V,2019,112877,Diesel,Manual,1,Dealer,3.31
+Kia,Seltos,2025,5970,Petrol,Manual,1,Individual,10.42
+Tata,Altroz,2018,115263,Diesel,Automatic,1,Dealer,2.27
+Renault,Triber,2015,116390,Petrol,Automatic,1,Dealer,1.08
+Toyota,Etios,2025,13623,Petrol,Automatic,1,Dealer,7.9
+Mahindra,Scorpio,2013,154584,Petrol,Automatic,1,Dealer,1.74
+Renault,Triber,2018,105268,Diesel,Manual,2,Individual,2.14
+Kia,Seltos,2019,83661,Petrol,Manual,1,Dealer,4.39
+Kia,Seltos,2018,86084,CNG,Manual,1,Individual,4.4
+Toyota,Etios,2024,27990,Petrol,Manual,2,Individual,5.76
+Maruti Suzuki,Dzire,2017,163976,Petrol,Manual,1,Dealer,0.56
+Honda,City,2025,21202,Petrol,Manual,1,Dealer,7.82
+Hyundai,Venue,2012,163518,Petrol,Automatic,2,Dealer,0.45
+Renault,Triber,2022,63502,Petrol,Automatic,1,Individual,4.33
+Hyundai,Creta,2020,86770,Petrol,Automatic,1,Individual,3.73
+Hyundai,Verna,2015,105056,Diesel,Automatic,1,Individual,1.8
+Hyundai,Verna,2015,27400,Petrol,Automatic,1,Dealer,2.65
+Mahindra,Bolero,2022,69295,Diesel,Manual,1,Dealer,5.59
+Toyota,Glanza,2020,29233,Diesel,Automatic,1,Dealer,4.5
+Renault,Triber,2020,82986,Petrol,Automatic,1,Individual,3.71
+Honda,Amaze,2012,144188,Petrol,Automatic,1,Individual,0.78
+Tata,Altroz,2020,86072,Petrol,Manual,1,Dealer,2.99
+Maruti Suzuki,Baleno,2025,28225,Petrol,Manual,1,Individual,5.82
+Maruti Suzuki,Wagon R,2012,80580,Diesel,Automatic,1,Dealer,1.36
+Tata,Tiago,2018,108745,CNG,Manual,4,Individual,1.39
+Renault,Kwid,2018,91659,Diesel,Manual,1,Individual,1.46
+Toyota,Glanza,2024,27566,Petrol,Manual,1,Individual,7.03
+Renault,Kwid,2015,110122,Diesel,Manual,1,Dealer,1.03
+Maruti Suzuki,Wagon R,2018,169221,Diesel,Manual,1,Dealer,1.99
+Maruti Suzuki,Swift,2022,54332,Petrol,Automatic,1,Dealer,3.57
+Kia,Seltos,2012,207648,Diesel,Automatic,2,Dealer,2.23
+Maruti Suzuki,Swift,2023,36460,Petrol,Automatic,1,Individual,4.3
+Maruti Suzuki,Brezza,2023,52473,Petrol,Manual,1,Dealer,4.65
+Honda,Jazz,2022,48087,Petrol,Manual,1,Dealer,4.22
+Renault,Kwid,2021,23083,Petrol,Manual,2,Individual,1.91
+Mahindra,Bolero,2022,48631,CNG,Manual,1,Dealer,5.36
+Maruti Suzuki,Swift,2022,54726,Petrol,Manual,1,Individual,3.29
+Kia,Seltos,2024,13302,Petrol,Automatic,2,Individual,8.36
+Kia,Carens,2017,110475,Petrol,Automatic,2,Individual,2.8
+Kia,Seltos,2018,81780,Petrol,Manual,1,Dealer,4.41
+Renault,Kiger,2020,89230,Petrol,Manual,4,Individual,1.36
+Hyundai,i20,2014,165463,Petrol,Manual,2,Individual,0.59
+Renault,Kwid,2023,35328,Diesel,Manual,1,Dealer,3.43
+Tata,Nexon,2022,43109,Petrol,Manual,2,Individual,4.67
+Kia,Sonet,2020,77622,Diesel,Manual,1,Dealer,5.09
+Toyota,Urban Cruiser,2016,99280,Petrol,Manual,1,Dealer,2.66
+Kia,Sonet,2016,81342,Diesel,Manual,1,Individual,2.55
+Mahindra,Scorpio,2018,30499,Diesel,Automatic,2,Individual,3.98
+Mahindra,XUV300,2021,57785,Petrol,Manual,1,Dealer,4.53
+Toyota,Glanza,2022,55244,Petrol,Manual,1,Individual,6.21
+Kia,Seltos,2021,82660,CNG,Manual,1,Individual,6.03
+Mahindra,Scorpio,2025,12264,Petrol,Manual,1,Dealer,8.95
+Hyundai,i20,2025,27701,Diesel,Manual,3,Dealer,5.7
+Kia,Sonet,2021,42665,Petrol,Automatic,2,Dealer,5.24
+Toyota,Glanza,2017,76794,Petrol,Automatic,1,Individual,2.99
+Tata,Tiago,2020,75523,Petrol,Manual,2,Dealer,2.66
+Toyota,Etios,2017,186231,CNG,Manual,2,Dealer,2.01
+Renault,Kwid,2020,113183,Petrol,Manual,1,Dealer,2.92
+Kia,Carens,2023,54419,Diesel,Manual,1,Dealer,7.61
+Kia,Sonet,2017,76428,Diesel,Manual,1,Dealer,4.11
+Honda,Jazz,2019,63622,Petrol,Automatic,1,Individual,3.86
+Kia,Carens,2012,195851,Petrol,Manual,1,Individual,1.17
+Honda,Amaze,2022,40168,Petrol,Manual,1,Individual,5.0
+Mahindra,XUV700,2018,90745,Petrol,Manual,3,Individual,3.37
+Mahindra,Bolero,2018,89694,Diesel,Manual,1,Individual,4.32
+Hyundai,i20,2019,113457,Petrol,Automatic,2,Individual,3.0
+Tata,Altroz,2015,101930,Petrol,Manual,3,Dealer,1.14
+Maruti Suzuki,Swift,2020,2187,Diesel,Manual,1,Individual,3.43
+Hyundai,i20,2022,56853,Diesel,Manual,1,Individual,5.3
+Honda,Amaze,2016,89491,Petrol,Automatic,2,Individual,1.53
+Honda,WR-V,2013,148849,Petrol,Manual,2,Individual,1.74
+Hyundai,i20,2017,83627,Petrol,Manual,1,Dealer,2.27
+Honda,WR-V,2014,126939,Diesel,Manual,1,Individual,1.06
+Toyota,Urban Cruiser,2017,142807,Petrol,Manual,1,Individual,2.54
+Hyundai,Creta,2020,39353,Petrol,Automatic,2,Dealer,3.62
+Tata,Tiago,2013,119375,Petrol,Manual,2,Individual,0.94
+Tata,Harrier,2022,58845,Diesel,Manual,1,Individual,4.72
+Toyota,Innova,2015,119207,Diesel,Manual,1,Dealer,2.92
+Tata,Harrier,2024,5467,Petrol,Manual,1,Individual,6.86
+Mahindra,Scorpio,2022,57589,Diesel,Manual,3,Dealer,5.96
+Tata,Harrier,2015,152036,Diesel,Automatic,3,Dealer,1.42
+Honda,Jazz,2019,72022,Petrol,Manual,2,Dealer,2.44
+Honda,City,2013,59432,Diesel,Manual,1,Individual,1.93
+Hyundai,Verna,2013,184341,Petrol,Manual,1,Dealer,2.22
+Mahindra,Bolero,2025,28198,Electric,Automatic,1,Dealer,10.06
+Hyundai,Creta,2023,43945,Petrol,Manual,1,Individual,5.82
+Tata,Altroz,2014,93155,Petrol,Manual,1,Dealer,1.17
+Kia,Sonet,2015,104601,Petrol,Manual,2,Individual,2.29
+Renault,Triber,2014,109755,Petrol,Manual,1,Dealer,1.12
+Mahindra,Scorpio,2017,88509,Diesel,Automatic,1,Individual,3.82
+Renault,Kwid,2016,71635,Petrol,Manual,4,Individual,0.74
+Kia,Carens,2016,142799,Petrol,Manual,1,Individual,2.35
+Honda,WR-V,2019,78190,Petrol,Manual,1,Dealer,2.84
+Kia,Carens,2014,192817,CNG,Manual,3,Individual,1.49
+Tata,Punch,2024,13904,Diesel,Manual,1,Individual,5.0
+Honda,Amaze,2022,52652,Petrol,Manual,1,Individual,5.0
+Toyota,Innova,2022,36617,Petrol,Manual,1,Dealer,6.66
+Renault,Triber,2014,75797,Petrol,Automatic,2,Individual,0.45
+Kia,Sonet,2021,45673,CNG,Automatic,1,Individual,5.93
+Honda,City,2023,47776,Diesel,Manual,1,Dealer,5.83
+Mahindra,Scorpio,2014,47772,Petrol,Automatic,1,Individual,3.18
+Hyundai,Verna,2022,39753,CNG,Automatic,1,Individual,5.17
+Kia,Sonet,2017,80001,Petrol,Manual,2,Individual,3.91
+Toyota,Glanza,2023,43971,Diesel,Manual,1,Dealer,7.08
+Toyota,Urban Cruiser,2018,39614,Petrol,Manual,1,Dealer,3.26
+Kia,Seltos,2023,18028,Petrol,Manual,1,Individual,6.66
+Mahindra,XUV300,2014,155095,Petrol,Manual,1,Individual,1.54
+Maruti Suzuki,Dzire,2017,147192,Petrol,Manual,1,Individual,0.88
+Tata,Punch,2015,106192,CNG,Automatic,1,Dealer,2.53
+Hyundai,Venue,2015,91237,Petrol,Manual,1,Individual,2.01
+Mahindra,Scorpio,2016,133201,Diesel,Automatic,1,Individual,3.75
+Maruti Suzuki,Brezza,2017,29824,Diesel,Manual,2,Dealer,2.21
+Hyundai,i20,2013,67357,Diesel,Manual,3,Individual,0.94
+Toyota,Urban Cruiser,2021,46732,CNG,Automatic,1,Individual,5.45
+Mahindra,Scorpio,2019,104383,Petrol,Manual,1,Individual,4.98
+Toyota,Glanza,2023,42837,Petrol,Manual,1,Individual,6.51
+Kia,Carens,2021,58476,Petrol,Manual,1,Individual,5.03
+Renault,Kwid,2014,194758,Petrol,Manual,1,Dealer,1.17
+Hyundai,Venue,2012,240000,CNG,Manual,3,Individual,0.45
+Renault,Kwid,2017,73625,Petrol,Manual,2,Individual,1.06
+Toyota,Glanza,2018,100838,Petrol,Manual,1,Dealer,2.24
+Mahindra,XUV300,2015,190944,Petrol,Manual,3,Dealer,1.68
+Maruti Suzuki,Brezza,2022,34784,Petrol,Manual,1,Dealer,4.29
+Toyota,Etios,2020,99635,Diesel,Manual,1,Dealer,4.2
+Mahindra,Bolero,2022,27437,Petrol,Manual,1,Individual,5.62
+Toyota,Glanza,2013,144490,Diesel,Manual,1,Dealer,1.5
+Maruti Suzuki,Brezza,2023,32456,Diesel,Manual,2,Individual,4.56
+Toyota,Innova,2014,81304,Diesel,Automatic,1,Individual,3.03
+Renault,Kwid,2018,61196,Petrol,Manual,1,Dealer,2.07
+Mahindra,Scorpio,2018,109440,Diesel,Manual,1,Dealer,4.05
+Hyundai,i20,2023,48430,Petrol,Manual,3,Individual,4.73
+Renault,Kwid,2015,102472,Petrol,Automatic,1,Individual,1.19
+Renault,Kiger,2015,107409,Diesel,Manual,1,Dealer,1.15
+Hyundai,Venue,2016,144925,Diesel,Manual,1,Individual,2.25
+Kia,Sonet,2017,70614,Petrol,Manual,3,Individual,2.32
+Honda,Jazz,2014,152930,Diesel,Manual,1,Individual,1.64
+Toyota,Etios,2014,159722,Petrol,Manual,1,Individual,0.99
+Honda,City,2015,197374,Diesel,Manual,2,Individual,1.31
+Kia,Seltos,2018,93602,Electric,Manual,1,Dealer,3.83
+Renault,Kwid,2016,91410,Petrol,Manual,1,Individual,1.19
+Kia,Sonet,2017,135320,Diesel,Manual,1,Individual,3.97
+Renault,Kiger,2022,58001,Diesel,Automatic,1,Dealer,3.89
+Renault,Kiger,2015,115960,Diesel,Manual,1,Individual,1.59
+Maruti Suzuki,Swift,2024,25986,Diesel,Automatic,1,Dealer,6.46
+Tata,Harrier,2022,62458,Diesel,Automatic,1,Dealer,5.67
+Mahindra,XUV300,2014,106411,Petrol,Automatic,1,Individual,1.91
+Toyota,Urban Cruiser,2016,103095,Diesel,Automatic,1,Dealer,2.74
+Maruti Suzuki,Wagon R,2014,137919,Petrol,Manual,3,Dealer,0.45
+Maruti Suzuki,Baleno,2015,153228,Electric,Manual,1,Dealer,1.6
+Toyota,Innova,2017,101241,Petrol,Manual,1,Dealer,3.35
+Toyota,Innova,2013,55787,Petrol,Manual,1,Individual,2.82
+Hyundai,Venue,2012,66179,Diesel,Manual,2,Dealer,1.7
+Hyundai,i20,2018,56907,Petrol,Manual,1,Dealer,2.07
+Hyundai,i20,2021,40513,Petrol,Manual,1,Individual,3.61
+Toyota,Glanza,2016,100757,Diesel,Automatic,1,Dealer,2.82
+Maruti Suzuki,Baleno,2024,21538,Petrol,Manual,1,Individual,5.59
+Toyota,Glanza,2017,77572,Petrol,Manual,2,Individual,3.35
+Honda,City,2024,5226,Petrol,Manual,2,Dealer,8.05
+Honda,WR-V,2015,105089,Petrol,Manual,2,Individual,1.41
+Mahindra,Bolero,2019,97118,Petrol,Automatic,1,Individual,3.97
+Toyota,Urban Cruiser,2022,38129,Petrol,Manual,1,Individual,5.99
+Mahindra,Bolero,2012,154091,Petrol,Manual,1,Dealer,1.09
+Kia,Carens,2025,18903,Petrol,Manual,2,Individual,8.31
+Renault,Kwid,2017,92289,Petrol,Manual,3,Dealer,0.72
+Kia,Seltos,2018,103062,Diesel,Manual,3,Dealer,2.52
+Toyota,Etios,2020,59890,Diesel,Automatic,1,Dealer,4.68
+Honda,Amaze,2021,29367,Petrol,Manual,2,Dealer,3.95
+Hyundai,Verna,2012,173369,Petrol,Manual,1,Dealer,1.52
+Toyota,Innova,2024,2525,CNG,Manual,2,Individual,8.18
+Hyundai,i20,2020,78173,Diesel,Manual,1,Dealer,3.04
+Renault,Triber,2025,11069,Petrol,Automatic,1,Individual,5.29
+Kia,Carens,2018,82626,Petrol,Manual,1,Individual,2.94
+Maruti Suzuki,Dzire,2020,96544,Petrol,Manual,3,Individual,1.32
+Kia,Seltos,2018,72055,Diesel,Manual,1,Dealer,4.58
+Maruti Suzuki,Swift,2024,28759,CNG,Manual,1,Individual,4.67
+Mahindra,Scorpio,2023,31673,CNG,Manual,1,Individual,7.87
+Maruti Suzuki,Swift,2024,14856,Petrol,Manual,1,Individual,3.97
+Honda,City,2019,78616,Petrol,Automatic,3,Individual,3.52
+Mahindra,XUV700,2023,25401,Petrol,Manual,1,Individual,7.28
+Mahindra,Bolero,2017,128196,Petrol,Manual,1,Dealer,3.32
+Honda,Amaze,2018,150534,Petrol,Automatic,2,Individual,2.8
+Renault,Kiger,2022,60472,Diesel,Manual,1,Individual,3.84
+Kia,Carens,2013,182600,Petrol,Manual,1,Individual,2.3
+Hyundai,i10,2021,45415,CNG,Manual,1,Individual,3.4
+Mahindra,Bolero,2012,166927,Petrol,Manual,1,Dealer,1.88
+Mahindra,Scorpio,2020,40146,Petrol,Automatic,1,Individual,5.21
+Tata,Nexon,2018,129748,Diesel,Manual,1,Individual,2.22
+Mahindra,XUV700,2018,137694,Diesel,Manual,1,Dealer,4.34
+Renault,Kwid,2018,78882,Petrol,Manual,2,Individual,0.81
+Kia,Sonet,2018,31214,Diesel,Manual,2,Individual,4.16
+Kia,Sonet,2017,73095,Petrol,Manual,2,Dealer,3.2
+Mahindra,XUV700,2018,108268,Petrol,Automatic,1,Dealer,4.69
+Tata,Tiago,2019,90384,Petrol,Manual,1,Dealer,2.35
+Kia,Seltos,2022,41270,Petrol,Manual,4,Individual,5.83
+Tata,Tiago,2019,93683,Diesel,Automatic,2,Individual,2.73
+Toyota,Glanza,2020,69489,Petrol,Manual,1,Individual,4.2
+Tata,Harrier,2023,53413,Diesel,Manual,1,Individual,5.48
+Tata,Tiago,2025,16120,Diesel,Manual,1,Individual,5.66
+Hyundai,i20,2013,203017,Petrol,Manual,1,Dealer,0.86
+Renault,Kiger,2021,69210,Petrol,Manual,1,Dealer,2.77
+Hyundai,Venue,2015,150944,Petrol,Manual,1,Individual,1.71
+Maruti Suzuki,Swift,2014,116423,Diesel,Manual,3,Individual,1.39
+Renault,Triber,2023,35430,Diesel,Manual,1,Dealer,3.92
+Toyota,Urban Cruiser,2012,235145,Diesel,Manual,1,Individual,0.89
+Honda,Amaze,2023,37104,Petrol,Automatic,1,Individual,4.99
+Mahindra,XUV300,2022,58108,Petrol,Manual,2,Individual,5.35
+Honda,Jazz,2025,8078,Petrol,Automatic,2,Dealer,7.21
+Hyundai,Venue,2021,39508,Petrol,Manual,1,Dealer,4.73
+Mahindra,Bolero,2024,33761,Diesel,Manual,1,Individual,7.47
+Hyundai,Creta,2013,205686,Petrol,Manual,1,Individual,1.62
+Toyota,Urban Cruiser,2024,34106,Petrol,Manual,2,Dealer,7.17
+Renault,Kwid,2014,68087,Petrol,Manual,1,Individual,1.52
+Renault,Kiger,2016,103574,Petrol,Manual,2,Dealer,1.59
+Tata,Harrier,2013,222607,Diesel,Manual,1,Individual,1.76
+Kia,Carens,2017,102693,Petrol,Manual,1,Dealer,3.24
+Toyota,Etios,2022,33066,CNG,Manual,1,Dealer,4.78
+Honda,Amaze,2015,186127,Diesel,Manual,1,Individual,1.91
+Hyundai,Creta,2023,56920,CNG,Manual,1,Individual,6.24
+Honda,City,2020,68940,Diesel,Manual,1,Dealer,5.28
+Mahindra,XUV700,2020,67192,Diesel,Manual,2,Individual,5.68
+Renault,Kiger,2025,21784,Diesel,Manual,1,Individual,5.99
+Maruti Suzuki,Wagon R,2018,77595,Petrol,Manual,4,Individual,1.36
+Mahindra,Scorpio,2016,139386,Petrol,Manual,1,Dealer,3.11
+Kia,Seltos,2025,24248,Diesel,Manual,1,Individual,8.99
+Renault,Kwid,2019,112433,Petrol,Manual,3,Dealer,1.37
+Honda,WR-V,2020,67045,Petrol,Automatic,2,Individual,3.47
+Maruti Suzuki,Baleno,2016,105110,Diesel,Manual,1,Individual,2.08
+Tata,Tiago,2015,152844,Petrol,Automatic,2,Individual,1.06
+Kia,Carens,2014,92890,Petrol,Manual,1,Dealer,2.53
+Renault,Triber,2015,78852,Diesel,Manual,1,Individual,1.45
+Mahindra,XUV300,2014,147864,Petrol,Manual,1,Individual,2.28
+Maruti Suzuki,Swift,2022,50339,CNG,Manual,1,Individual,2.6
+Maruti Suzuki,Wagon R,2012,157639,Petrol,Manual,1,Individual,0.59
+Honda,Jazz,2020,68252,CNG,Automatic,1,Individual,4.51
+Toyota,Urban Cruiser,2025,1000,Diesel,Manual,3,Individual,8.64
+Maruti Suzuki,Brezza,2022,63397,Petrol,Manual,2,Individual,4.14
+Mahindra,Bolero,2017,126184,Petrol,Manual,2,Dealer,3.36
+Toyota,Glanza,2012,126510,Petrol,Manual,2,Individual,1.29
+Maruti Suzuki,Brezza,2023,16838,Petrol,Automatic,1,Individual,5.22
+Maruti Suzuki,Dzire,2012,240000,Petrol,Manual,1,Individual,0.45
+Honda,Amaze,2021,22471,Electric,Manual,1,Individual,5.16
+Mahindra,Scorpio,2021,78490,Petrol,Automatic,1,Dealer,5.8
+Kia,Seltos,2014,63701,Diesel,Automatic,1,Individual,2.7
+Honda,WR-V,2022,39296,Petrol,Manual,1,Individual,4.28
+Tata,Tiago,2014,112569,Electric,Manual,1,Dealer,1.76
+Renault,Triber,2015,54684,Petrol,Automatic,1,Individual,1.66
+Honda,WR-V,2023,37960,Petrol,Manual,1,Dealer,5.15
+Tata,Altroz,2025,9316,Petrol,Manual,1,Dealer,5.57
+Honda,Amaze,2015,44619,Petrol,Manual,1,Individual,2.37
+Maruti Suzuki,Brezza,2024,18654,Diesel,Automatic,3,Individual,5.84
+Tata,Tiago,2024,39154,Petrol,Automatic,1,Individual,4.5
+Toyota,Etios,2022,48206,Petrol,Manual,2,Individual,4.42
+Renault,Triber,2013,151991,Petrol,Manual,2,Individual,0.84
+Mahindra,XUV700,2016,119067,Diesel,Manual,1,Individual,2.65
+Kia,Sonet,2021,81780,Petrol,Manual,1,Individual,5.6
+Toyota,Etios,2025,26786,Petrol,Automatic,1,Individual,8.53
+Maruti Suzuki,Swift,2023,46731,Petrol,Manual,1,Individual,4.85
+Honda,WR-V,2017,84081,Petrol,Manual,1,Dealer,2.85
+Renault,Triber,2015,136834,Petrol,Manual,3,Dealer,0.85
+Maruti Suzuki,Dzire,2025,21367,CNG,Manual,3,Individual,5.11
+Renault,Triber,2015,66076,Petrol,Automatic,1,Dealer,0.63
+Mahindra,Bolero,2016,132523,Diesel,Manual,1,Individual,2.48
+Tata,Harrier,2025,18378,Petrol,Automatic,1,Dealer,7.88
+Kia,Seltos,2019,79395,Petrol,Manual,2,Individual,4.21
+Kia,Sonet,2015,176567,Petrol,Manual,1,Dealer,2.78
+Maruti Suzuki,Dzire,2012,165655,Petrol,Manual,1,Individual,0.46
+Maruti Suzuki,Wagon R,2018,98030,Petrol,Manual,2,Individual,1.62
+Mahindra,XUV300,2025,7356,Petrol,Manual,1,Dealer,7.95
+Renault,Triber,2018,59050,Petrol,Manual,1,Individual,1.89
+Maruti Suzuki,Baleno,2021,46678,Electric,Manual,1,Individual,4.35
+Mahindra,XUV300,2015,164362,Petrol,Automatic,1,Dealer,2.38
+Hyundai,Venue,2022,45708,Petrol,Manual,1,Dealer,4.53
+Mahindra,XUV300,2022,38064,Petrol,Manual,1,Dealer,6.14
+Toyota,Glanza,2020,68061,Petrol,Automatic,1,Dealer,5.05
+Maruti Suzuki,Dzire,2022,36434,Diesel,Manual,3,Dealer,3.45
+Mahindra,XUV300,2020,88041,Petrol,Automatic,1,Individual,4.22
+Renault,Kiger,2017,131003,Diesel,Manual,3,Individual,0.45
+Kia,Seltos,2022,47571,Petrol,Manual,1,Dealer,6.62
+Maruti Suzuki,Baleno,2023,34000,Petrol,Manual,2,Dealer,5.67
+Hyundai,Verna,2023,50463,CNG,Automatic,1,Individual,6.36
+Hyundai,i10,2014,160693,Petrol,Manual,2,Individual,0.55
+Honda,City,2021,62558,Diesel,Manual,1,Dealer,5.37
+Hyundai,Venue,2012,109900,Petrol,Automatic,1,Individual,1.71
+Kia,Carens,2020,124933,CNG,Manual,1,Individual,4.06
+Kia,Carens,2019,85276,Petrol,Automatic,1,Dealer,5.11
+Kia,Seltos,2017,127256,Petrol,Manual,3,Individual,2.84
+Hyundai,i10,2025,1000,Diesel,Automatic,4,Individual,5.6
+Maruti Suzuki,Brezza,2024,19022,Petrol,Automatic,2,Individual,5.52
+Renault,Triber,2012,190861,Petrol,Automatic,1,Individual,1.01
+Tata,Altroz,2014,131462,Electric,Manual,2,Dealer,1.05
+Mahindra,XUV700,2014,65902,Petrol,Automatic,2,Individual,1.81
+Renault,Kiger,2024,32146,Diesel,Automatic,1,Individual,5.18
+Maruti Suzuki,Wagon R,2019,63128,Diesel,Manual,1,Individual,1.57
+Maruti Suzuki,Baleno,2022,57577,Diesel,Manual,1,Individual,4.25
+Maruti Suzuki,Brezza,2023,33450,Diesel,Automatic,1,Individual,5.89
+Hyundai,Verna,2022,52631,Petrol,Manual,1,Individual,5.07
+Maruti Suzuki,Dzire,2013,200373,Petrol,Manual,2,Individual,0.61
+Kia,Carens,2013,77912,Petrol,Manual,1,Individual,2.39
+Toyota,Innova,2017,62588,Diesel,Manual,1,Individual,4.91
+Renault,Kwid,2016,105303,Diesel,Automatic,1,Individual,1.27
+Kia,Sonet,2022,56599,Petrol,Manual,2,Individual,6.01
+Renault,Triber,2014,83928,Petrol,Manual,3,Individual,0.45
+Hyundai,Creta,2017,54136,Petrol,Automatic,2,Individual,3.36
+Tata,Punch,2015,146446,Petrol,Manual,1,Individual,1.36
+Kia,Seltos,2014,102577,Diesel,Manual,1,Individual,3.31
+Hyundai,Venue,2014,113483,Petrol,Manual,1,Dealer,1.45
+Maruti Suzuki,Wagon R,2014,71185,Diesel,Automatic,1,Individual,2.03
+Mahindra,Scorpio,2019,55970,Diesel,Automatic,1,Dealer,5.42
+Kia,Seltos,2017,98653,CNG,Manual,1,Dealer,3.6
+Renault,Kiger,2018,114651,Petrol,Manual,2,Individual,1.81
+Renault,Triber,2018,84860,CNG,Manual,1,Individual,2.12
+Maruti Suzuki,Swift,2022,65211,Diesel,Manual,2,Individual,3.75
+Kia,Carens,2024,31206,Diesel,Manual,1,Individual,7.92
+Kia,Seltos,2019,75518,Petrol,Manual,1,Individual,4.35
+Mahindra,XUV300,2020,96879,Petrol,Manual,1,Individual,4.22
+Kia,Carens,2022,47599,Diesel,Manual,1,Dealer,5.68
+Kia,Carens,2021,45377,Petrol,Manual,1,Individual,5.89
+Honda,Amaze,2013,132488,Petrol,Automatic,1,Dealer,0.94
+Maruti Suzuki,Dzire,2025,28372,Petrol,Manual,1,Dealer,4.55
+Honda,City,2014,189612,Petrol,Manual,1,Individual,1.94
+Hyundai,Venue,2017,78329,Petrol,Manual,1,Dealer,2.99
+Maruti Suzuki,Dzire,2021,45568,Petrol,Automatic,2,Dealer,2.23
+Maruti Suzuki,Baleno,2017,92421,Petrol,Manual,2,Individual,1.87
+Mahindra,XUV300,2015,107218,CNG,Manual,1,Individual,2.56
+Toyota,Etios,2024,23865,Electric,Manual,1,Individual,7.78
+Toyota,Etios,2013,133973,Petrol,Manual,1,Individual,2.08
+Mahindra,Scorpio,2015,174946,Petrol,Automatic,1,Individual,2.32
+Toyota,Etios,2025,22181,Petrol,Manual,1,Individual,6.51
+Mahindra,Bolero,2022,48567,Petrol,Manual,1,Individual,6.04
+Maruti Suzuki,Brezza,2013,131219,CNG,Automatic,1,Dealer,1.05
+Kia,Sonet,2022,52316,Petrol,Manual,3,Individual,4.84
+Honda,Amaze,2025,11931,Petrol,Manual,1,Individual,6.63
+Hyundai,Venue,2013,152160,Petrol,Manual,2,Individual,1.52
+Kia,Sonet,2017,96089,Petrol,Manual,1,Dealer,2.81
+Mahindra,XUV300,2018,67143,Diesel,Manual,1,Dealer,4.72
+Maruti Suzuki,Wagon R,2013,120200,Diesel,Automatic,3,Individual,0.45
+Hyundai,Venue,2014,187427,Petrol,Automatic,1,Dealer,1.53
+Maruti Suzuki,Baleno,2014,101651,Petrol,Automatic,1,Individual,1.09
+Tata,Tiago,2014,193049,CNG,Manual,3,Dealer,0.45
+Maruti Suzuki,Brezza,2017,112102,Petrol,Manual,1,Individual,2.04
+Mahindra,Scorpio,2018,105118,Diesel,Manual,1,Individual,3.54
+Toyota,Urban Cruiser,2015,196613,CNG,Automatic,1,Dealer,3.33
+Renault,Kwid,2016,82074,Petrol,Automatic,1,Dealer,1.29
+Mahindra,Bolero,2014,50703,CNG,Manual,1,Dealer,2.13
+Toyota,Urban Cruiser,2023,35313,Petrol,Manual,1,Individual,6.82
+Toyota,Urban Cruiser,2014,95766,Diesel,Automatic,2,Dealer,2.86
+Maruti Suzuki,Brezza,2024,26782,Petrol,Automatic,1,Individual,6.23
+Maruti Suzuki,Wagon R,2019,46653,Petrol,Automatic,1,Dealer,2.09
+Toyota,Glanza,2023,27582,Petrol,Manual,1,Dealer,6.53
+Maruti Suzuki,Brezza,2020,49853,Petrol,Manual,1,Individual,2.55
+Maruti Suzuki,Wagon R,2015,110084,Petrol,Manual,3,Individual,0.99
+Hyundai,i10,2020,80584,Petrol,Manual,1,Individual,2.31
+Renault,Kwid,2015,72860,Diesel,Automatic,1,Individual,1.13
+Honda,WR-V,2013,119517,Petrol,Manual,2,Individual,1.1
+Mahindra,Scorpio,2015,96434,Petrol,Manual,2,Individual,2.75
+Honda,WR-V,2015,86633,Electric,Manual,3,Individual,1.74
+Hyundai,i10,2013,106763,CNG,Manual,1,Individual,1.78
+Tata,Altroz,2012,146396,Petrol,Manual,1,Individual,1.14
+Maruti Suzuki,Baleno,2025,18395,Petrol,Manual,1,Dealer,6.22
+Kia,Sonet,2019,89063,Diesel,Automatic,1,Individual,4.17
+Hyundai,Venue,2017,102077,Diesel,Manual,2,Individual,3.1
+Honda,WR-V,2025,19030,Petrol,Manual,1,Dealer,6.33
+Renault,Kiger,2015,145000,Diesel,Manual,1,Dealer,1.92
+Toyota,Innova,2017,130592,Petrol,Manual,3,Individual,3.74
+Honda,City,2023,27140,Petrol,Manual,3,Individual,6.03
+Toyota,Urban Cruiser,2020,65196,Diesel,Automatic,1,Individual,5.41
+Kia,Seltos,2017,79811,Diesel,Manual,3,Dealer,1.96
+Tata,Nexon,2015,137382,Diesel,Automatic,1,Dealer,1.85
+Mahindra,XUV300,2012,210915,Petrol,Manual,1,Dealer,1.58
+Kia,Carens,2013,165855,Petrol,Manual,1,Dealer,2.12
+Toyota,Urban Cruiser,2014,49882,Petrol,Manual,4,Individual,0.98
+Honda,Jazz,2023,43822,Petrol,Manual,3,Individual,4.59
+Hyundai,Venue,2020,86784,Petrol,Automatic,1,Dealer,2.94
+Hyundai,Venue,2018,97393,Petrol,Manual,1,Dealer,3.06
+Renault,Kwid,2022,62981,Petrol,Manual,1,Individual,2.08
+Toyota,Etios,2014,116857,Diesel,Manual,1,Individual,2.4
+Tata,Punch,2014,66398,Petrol,Automatic,2,Individual,1.92
+Honda,City,2017,104127,Petrol,Manual,1,Dealer,2.79
+Toyota,Etios,2024,4947,Diesel,Automatic,2,Individual,7.37
+Toyota,Innova,2020,59260,Petrol,Manual,1,Dealer,5.18
+Mahindra,XUV700,2023,46232,Diesel,Automatic,1,Individual,8.14
+Tata,Nexon,2015,46017,Petrol,Manual,1,Individual,1.58
+Mahindra,Scorpio,2023,12061,Petrol,Manual,4,Dealer,6.96
+Honda,Amaze,2013,84432,CNG,Automatic,1,Individual,1.0
+Renault,Kiger,2015,94873,Petrol,Manual,1,Dealer,0.54
+Hyundai,Verna,2019,59744,Diesel,Manual,1,Dealer,3.54
+Hyundai,i10,2012,220956,Diesel,Manual,3,Dealer,0.45
+Honda,Jazz,2024,16122,Petrol,Manual,2,Individual,5.84
+Toyota,Etios,2024,15488,Diesel,Manual,2,Dealer,6.39
+Mahindra,XUV300,2019,99671,CNG,Manual,1,Individual,4.68
+Honda,WR-V,2016,116218,Electric,Automatic,2,Individual,2.57
+Renault,Kiger,2013,108851,Petrol,Automatic,1,Individual,1.15
+Honda,Jazz,2020,90881,Petrol,Manual,2,Individual,3.39
+Hyundai,i20,2019,60215,Diesel,Manual,1,Individual,3.67
+Maruti Suzuki,Dzire,2022,42469,Petrol,Automatic,1,Individual,3.89
+Renault,Kwid,2020,88463,Petrol,Manual,4,Individual,1.5
+Hyundai,Creta,2013,134089,Petrol,Manual,4,Individual,1.01
+Renault,Kiger,2013,158632,Petrol,Manual,1,Individual,0.45
+Tata,Harrier,2022,36175,Petrol,Manual,1,Individual,4.28
+Maruti Suzuki,Baleno,2014,10639,Petrol,Manual,2,Dealer,1.54
+Tata,Altroz,2025,6061,Petrol,Automatic,4,Individual,5.4
+Toyota,Urban Cruiser,2013,121817,Petrol,Automatic,2,Individual,1.85
+Honda,Jazz,2022,59877,CNG,Manual,1,Dealer,4.7
+Kia,Carens,2025,41985,Petrol,Manual,1,Dealer,8.79
+Toyota,Etios,2018,82328,Petrol,Manual,2,Dealer,2.41
+Honda,Amaze,2012,87714,Petrol,Manual,2,Dealer,1.05
+Mahindra,XUV300,2024,2725,Petrol,Automatic,2,Dealer,6.89
+Renault,Kiger,2014,131153,CNG,Manual,1,Individual,1.15
+Honda,Amaze,2019,77910,CNG,Automatic,1,Dealer,2.74
+Hyundai,Creta,2025,9505,Petrol,Manual,1,Dealer,7.67
+Honda,City,2022,62517,Petrol,Manual,2,Individual,4.67
+Kia,Seltos,2012,107297,Petrol,Manual,1,Dealer,1.75
+Hyundai,Creta,2023,41417,Petrol,Manual,1,Dealer,6.32
+Renault,Kiger,2014,177372,Petrol,Automatic,2,Dealer,0.73
+Toyota,Urban Cruiser,2022,13780,Petrol,Manual,2,Dealer,4.88
+Toyota,Etios,2020,78107,Petrol,Manual,1,Individual,3.79
+Tata,Harrier,2016,91393,Petrol,Manual,2,Individual,1.44
+Renault,Kiger,2017,97707,Petrol,Manual,1,Dealer,0.99
+Maruti Suzuki,Brezza,2013,111760,Petrol,Automatic,1,Dealer,1.4
+Tata,Tiago,2025,1000,Petrol,Manual,1,Dealer,5.45
+Honda,Jazz,2015,170969,Petrol,Manual,1,Dealer,1.78
+Honda,WR-V,2016,61982,Petrol,Manual,3,Dealer,2.04
+Honda,WR-V,2019,41738,Petrol,Manual,3,Dealer,2.84
+Hyundai,i20,2021,44221,Petrol,Manual,1,Individual,3.83
+Hyundai,Venue,2019,120707,Petrol,Manual,2,Dealer,2.42
+Maruti Suzuki,Swift,2019,79135,Diesel,Manual,1,Individual,2.5
+Toyota,Etios,2020,71472,CNG,Manual,2,Individual,3.29
+Tata,Punch,2024,25508,Petrol,Manual,2,Individual,4.52
+Toyota,Etios,2017,84297,Petrol,Automatic,1,Individual,3.1
+Toyota,Innova,2023,38939,Diesel,Manual,1,Individual,7.62
+Mahindra,Bolero,2023,60780,Diesel,Manual,1,Individual,7.84
+Toyota,Innova,2025,34759,Petrol,Manual,1,Dealer,8.64
+Mahindra,XUV300,2024,21693,Petrol,Manual,3,Dealer,6.59
+Toyota,Innova,2023,39673,Petrol,Automatic,1,Individual,7.21
+Mahindra,Scorpio,2015,82852,Petrol,Manual,1,Dealer,2.74
+Toyota,Etios,2022,31292,Petrol,Manual,1,Individual,5.17
+Tata,Altroz,2022,72420,Petrol,Automatic,3,Individual,4.1
+Hyundai,Verna,2016,146617,Petrol,Automatic,1,Individual,2.04
+Kia,Seltos,2021,87315,Petrol,Automatic,2,Individual,5.72
+Tata,Altroz,2015,84260,Petrol,Manual,1,Dealer,1.49
+Toyota,Etios,2019,74209,Diesel,Manual,1,Individual,3.23
+Hyundai,i20,2023,43296,Petrol,Manual,1,Dealer,4.64
+Honda,City,2014,138763,Petrol,Manual,1,Individual,1.74
+Toyota,Innova,2016,121242,Petrol,Manual,1,Dealer,3.12
+Mahindra,XUV700,2023,20294,Diesel,Automatic,2,Dealer,8.11
+Toyota,Etios,2018,87837,Petrol,Manual,2,Individual,2.81
+Tata,Harrier,2025,19212,Petrol,Manual,1,Individual,6.92
+Renault,Triber,2012,78319,Petrol,Manual,1,Individual,0.45
+Toyota,Glanza,2022,47577,Diesel,Manual,1,Individual,6.16
+Kia,Seltos,2023,49515,Diesel,Manual,1,Individual,7.33
+Mahindra,Bolero,2024,24511,CNG,Automatic,2,Individual,7.71
+Toyota,Glanza,2014,156195,Diesel,Manual,2,Dealer,2.22
+Renault,Triber,2025,26372,Petrol,Automatic,2,Dealer,4.97
+Hyundai,Verna,2017,66334,Petrol,Manual,1,Individual,2.26
+Renault,Kiger,2016,98097,Petrol,Manual,1,Individual,1.48
+Kia,Sonet,2016,133900,Diesel,Manual,1,Individual,3.06
+Toyota,Urban Cruiser,2020,55198,Diesel,Automatic,4,Individual,4.05
+Mahindra,Bolero,2021,38353,Petrol,Manual,1,Dealer,4.91
+Toyota,Glanza,2018,32425,CNG,Manual,3,Individual,3.44
+Tata,Punch,2012,220074,Petrol,Manual,1,Individual,0.71
+Kia,Carens,2025,11961,Petrol,Automatic,1,Individual,9.03
+Hyundai,Venue,2015,137253,Petrol,Manual,2,Individual,0.83
+Tata,Tiago,2013,166120,Diesel,Automatic,1,Individual,1.16
+Toyota,Glanza,2020,81266,CNG,Automatic,1,Individual,4.42
+Kia,Seltos,2017,94809,Petrol,Automatic,1,Dealer,3.92
+Honda,Amaze,2020,81863,CNG,Manual,4,Individual,2.88
+Honda,WR-V,2024,16580,CNG,Manual,1,Dealer,5.25
+Maruti Suzuki,Baleno,2013,240000,Diesel,Automatic,3,Individual,0.45
+Maruti Suzuki,Swift,2015,143195,Diesel,Manual,1,Dealer,1.57
+Maruti Suzuki,Brezza,2019,65572,Petrol,Manual,1,Individual,3.19
+Maruti Suzuki,Swift,2023,48412,Diesel,Manual,1,Individual,4.47
+Kia,Sonet,2020,56343,Petrol,Automatic,1,Dealer,4.38
+Kia,Seltos,2017,146103,Diesel,Manual,3,Dealer,3.5
+Kia,Seltos,2020,52751,Petrol,Manual,3,Individual,4.91
+Maruti Suzuki,Wagon R,2025,13528,Diesel,Manual,3,Individual,3.96
+Maruti Suzuki,Brezza,2018,102611,CNG,Automatic,4,Dealer,1.52
+Tata,Harrier,2024,20403,Petrol,Manual,1,Dealer,6.41
+Toyota,Etios,2022,41989,Electric,Automatic,1,Dealer,6.83
+Tata,Harrier,2016,99105,Petrol,Automatic,2,Individual,2.03
+Honda,Jazz,2015,122912,Petrol,Automatic,1,Individual,2.33
+Hyundai,i10,2022,51584,Petrol,Automatic,2,Individual,3.24
+Mahindra,XUV700,2014,104659,Diesel,Manual,1,Individual,2.14
+Tata,Tiago,2016,160181,Petrol,Manual,1,Individual,0.45
+Maruti Suzuki,Dzire,2015,106338,Petrol,Manual,1,Dealer,0.81
+Mahindra,XUV700,2020,49863,Diesel,Automatic,1,Individual,6.43
+Renault,Kwid,2016,86575,Petrol,Manual,1,Dealer,2.15
+Maruti Suzuki,Baleno,2021,81124,Petrol,Manual,1,Dealer,3.7
+Honda,Amaze,2025,10874,Diesel,Automatic,1,Dealer,7.25
+Kia,Carens,2023,51995,Diesel,Manual,1,Individual,7.01
+Mahindra,Bolero,2025,12218,Diesel,Automatic,1,Individual,9.06
+Kia,Seltos,2012,171190,Diesel,Manual,1,Individual,1.04
+Honda,Amaze,2018,59991,Electric,Manual,1,Individual,3.33
+Tata,Tiago,2015,113893,Petrol,Manual,2,Individual,1.64
+Mahindra,XUV300,2024,41158,Petrol,Manual,1,Individual,6.67
+Hyundai,Creta,2021,74221,Petrol,Manual,1,Individual,4.32
+Hyundai,Verna,2016,100967,Petrol,Automatic,1,Individual,2.44
+Toyota,Glanza,2019,73634,Diesel,Manual,1,Dealer,4.27
+Mahindra,Bolero,2020,67011,Diesel,Manual,1,Dealer,4.42
+Maruti Suzuki,Dzire,2018,130008,Petrol,Automatic,1,Individual,1.97
+Toyota,Innova,2018,44658,Petrol,Automatic,1,Dealer,4.78
+Tata,Nexon,2012,156089,Diesel,Manual,1,Individual,1.86
+Toyota,Glanza,2018,65436,Electric,Automatic,1,Individual,4.38
+Renault,Triber,2016,93317,Petrol,Manual,1,Dealer,1.49
+Maruti Suzuki,Baleno,2023,35566,Petrol,Manual,1,Individual,5.37
+Renault,Kiger,2024,30178,Petrol,Manual,1,Individual,4.09
+Honda,WR-V,2022,57395,Petrol,Automatic,1,Individual,4.47
+Kia,Seltos,2012,154032,Petrol,Manual,2,Individual,1.52
+Honda,City,2023,30231,Petrol,Manual,1,Dealer,6.81
+Tata,Harrier,2017,72468,Diesel,Automatic,1,Individual,3.25
+Kia,Sonet,2017,131635,Petrol,Manual,1,Individual,3.14
+Mahindra,XUV700,2025,14699,Petrol,Manual,1,Individual,8.69
+Hyundai,i10,2024,31448,Petrol,Automatic,1,Individual,5.39
+Mahindra,XUV300,2012,84928,CNG,Manual,2,Individual,1.94
+Kia,Sonet,2017,111726,Petrol,Manual,2,Dealer,2.47
+Honda,City,2022,42086,Petrol,Manual,1,Dealer,5.56
+Renault,Kiger,2019,39976,Petrol,Automatic,1,Individual,2.56
+Mahindra,XUV300,2015,111948,Diesel,Manual,2,Dealer,1.87
+Tata,Tiago,2019,66248,Diesel,Manual,1,Individual,2.75
+Maruti Suzuki,Brezza,2024,31351,Petrol,Manual,1,Individual,5.48
+Mahindra,Scorpio,2015,194589,Petrol,Manual,2,Individual,2.3
+Hyundai,i20,2022,24006,Petrol,Automatic,1,Individual,4.44
+Kia,Sonet,2022,80886,Diesel,Manual,1,Dealer,5.55
+Toyota,Etios,2024,7899,CNG,Manual,1,Dealer,6.84
+Honda,City,2016,136765,Petrol,Manual,1,Individual,2.29
+Hyundai,Verna,2015,160534,Petrol,Manual,1,Individual,2.48
+Mahindra,Bolero,2019,62146,Diesel,Manual,1,Individual,5.0
+Hyundai,i10,2019,82303,Diesel,Automatic,1,Individual,3.92
+Honda,Amaze,2017,98019,Petrol,Manual,1,Individual,2.08
+Kia,Carens,2022,76083,Petrol,Manual,1,Dealer,6.27
+Renault,Kiger,2023,38538,Petrol,Manual,2,Dealer,3.93
+Renault,Triber,2015,155679,Diesel,Manual,1,Dealer,1.46
+Renault,Kwid,2023,35486,Diesel,Manual,2,Individual,3.17
+Toyota,Urban Cruiser,2015,115512,Diesel,Manual,1,Individual,2.96
+Hyundai,Venue,2017,129554,Diesel,Manual,1,Individual,2.55
+Kia,Carens,2012,177688,Petrol,Automatic,1,Dealer,1.61
+Kia,Carens,2016,118983,Petrol,Automatic,1,Individual,2.41
+Renault,Kiger,2025,3747,Petrol,Manual,1,Individual,5.21
+Mahindra,XUV700,2018,60747,Diesel,Automatic,2,Individual,4.22
+Hyundai,Verna,2021,46763,Diesel,Manual,3,Dealer,4.19
+Toyota,Etios,2013,110011,Petrol,Manual,2,Dealer,1.44
+Honda,Amaze,2020,81324,Petrol,Automatic,1,Dealer,4.0
+Kia,Sonet,2017,128218,Diesel,Manual,1,Individual,3.31
+Honda,Jazz,2022,53908,Diesel,Manual,1,Dealer,5.25
+Tata,Punch,2024,34165,Diesel,Automatic,1,Individual,5.76
+Maruti Suzuki,Brezza,2019,113144,Petrol,Manual,2,Individual,1.81
+Kia,Sonet,2013,146209,CNG,Automatic,2,Individual,1.93
+Kia,Seltos,2018,73680,Diesel,Manual,1,Individual,3.97
+Maruti Suzuki,Baleno,2013,210792,Diesel,Automatic,3,Individual,0.45
+Honda,WR-V,2018,96096,Diesel,Manual,2,Dealer,2.25
+Honda,Amaze,2012,164786,CNG,Manual,1,Individual,1.11
+Honda,City,2020,67366,CNG,Manual,3,Individual,3.86
+Renault,Triber,2016,80542,Diesel,Automatic,1,Dealer,0.98
+Hyundai,Creta,2014,77053,Petrol,Manual,1,Dealer,1.87
+Tata,Harrier,2012,190987,Petrol,Automatic,1,Individual,1.57
+Hyundai,i10,2024,14465,Diesel,Manual,1,Individual,5.14
+Hyundai,i20,2023,59587,Diesel,Manual,1,Individual,5.03
+Renault,Kwid,2023,27888,Petrol,Manual,3,Individual,3.26
+Renault,Kwid,2012,99822,Petrol,Manual,1,Dealer,0.99
+Maruti Suzuki,Dzire,2016,118083,CNG,Automatic,1,Individual,1.96
+Mahindra,Scorpio,2025,19646,CNG,Manual,1,Individual,8.16
+Hyundai,i10,2020,68300,CNG,Manual,1,Individual,3.8
+Hyundai,Verna,2013,143152,Petrol,Manual,2,Individual,1.31
+Tata,Tiago,2013,62612,Diesel,Manual,1,Individual,2.32
+Hyundai,i20,2015,95078,Diesel,Manual,3,Dealer,1.0
+Honda,City,2025,10461,Petrol,Automatic,1,Individual,7.72
+Renault,Kwid,2014,72389,Petrol,Manual,1,Dealer,1.04
+Toyota,Etios,2024,14590,Electric,Manual,1,Individual,7.68
+Mahindra,XUV700,2021,13368,Petrol,Manual,1,Dealer,6.37
+Honda,WR-V,2024,1000,Diesel,Manual,3,Individual,6.25
+Maruti Suzuki,Swift,2023,26533,Diesel,Manual,1,Individual,4.48
+Maruti Suzuki,Swift,2016,79442,Diesel,Manual,1,Individual,1.76
+Tata,Altroz,2023,35205,Petrol,Manual,1,Individual,4.8
+Hyundai,Venue,2014,153811,Diesel,Automatic,2,Dealer,1.36
+Kia,Carens,2016,147207,Petrol,Automatic,1,Dealer,2.78
+Kia,Carens,2014,160670,Diesel,Automatic,2,Dealer,2.44
+Kia,Seltos,2013,185251,Petrol,Automatic,2,Individual,2.21
+Mahindra,Bolero,2013,151682,Diesel,Manual,1,Individual,2.16
+Toyota,Glanza,2014,142455,Diesel,Automatic,1,Dealer,2.1
+Mahindra,Bolero,2013,154596,Petrol,Manual,1,Dealer,0.7
+Honda,City,2017,86417,Petrol,Manual,1,Individual,3.01
+Mahindra,XUV700,2012,129792,Diesel,Manual,3,Dealer,1.01
+Kia,Sonet,2012,144653,Petrol,Manual,1,Individual,1.52
+Kia,Carens,2025,35649,Petrol,Automatic,2,Dealer,8.51
+Toyota,Innova,2013,159655,Petrol,Automatic,1,Individual,2.07
+Maruti Suzuki,Dzire,2013,129935,CNG,Manual,1,Individual,0.45
+Mahindra,Scorpio,2012,110440,Petrol,Manual,2,Dealer,1.08
+Tata,Harrier,2013,119470,Petrol,Manual,1,Individual,1.99
+Mahindra,Bolero,2019,33740,Electric,Manual,1,Individual,4.43
+Toyota,Glanza,2023,51400,Petrol,Automatic,1,Individual,6.74
+Renault,Triber,2022,56183,Petrol,Automatic,1,Individual,4.12
+Tata,Altroz,2020,55797,Petrol,Manual,2,Dealer,3.31
+Renault,Triber,2013,172938,Petrol,Manual,1,Dealer,0.96
+Kia,Carens,2022,45475,Petrol,Manual,2,Individual,6.02
+Tata,Nexon,2012,90698,Diesel,Manual,1,Dealer,1.63
+Honda,Amaze,2020,79826,Petrol,Manual,1,Dealer,4.21
+Toyota,Etios,2017,102535,Diesel,Manual,1,Dealer,3.08
+Kia,Carens,2024,19866,Petrol,Manual,2,Individual,6.72
+Mahindra,Bolero,2016,119075,Petrol,Manual,1,Individual,2.39
+Kia,Seltos,2020,65751,Petrol,Manual,1,Individual,5.54
+Tata,Nexon,2018,102277,Petrol,Automatic,1,Individual,2.62
+Toyota,Urban Cruiser,2019,66327,Diesel,Manual,1,Dealer,4.87
+Honda,Jazz,2025,17538,Petrol,Automatic,2,Individual,6.86
+Renault,Triber,2021,55327,Petrol,Manual,1,Individual,3.04
+Tata,Altroz,2017,159457,Petrol,Manual,3,Dealer,1.72
+Toyota,Etios,2018,82543,Diesel,Manual,1,Individual,3.29
+Maruti Suzuki,Dzire,2021,27210,Petrol,Manual,1,Individual,3.09
+Kia,Sonet,2016,113349,Diesel,Manual,1,Dealer,3.38
+Honda,Jazz,2014,199584,Petrol,Manual,2,Dealer,0.45
+Tata,Altroz,2018,140612,Petrol,Manual,1,Individual,2.05
+Toyota,Innova,2012,240000,Diesel,Automatic,1,Dealer,1.87
+Honda,WR-V,2014,84777,Petrol,Manual,1,Dealer,1.77
+Kia,Carens,2017,118434,Petrol,Manual,1,Dealer,3.85
+Toyota,Glanza,2023,23112,CNG,Automatic,1,Individual,6.24
+Toyota,Urban Cruiser,2022,57197,Petrol,Manual,3,Dealer,4.39
+Maruti Suzuki,Swift,2015,65692,Petrol,Manual,1,Dealer,1.92
+Maruti Suzuki,Baleno,2017,84506,Petrol,Automatic,1,Individual,2.8
+Honda,City,2014,112500,Petrol,Manual,1,Dealer,1.94
+Renault,Kwid,2022,57619,Diesel,Manual,1,Dealer,3.29
+Renault,Kwid,2015,158785,Petrol,Manual,1,Individual,1.11
+Mahindra,Bolero,2023,36114,CNG,Manual,4,Dealer,5.26
+Mahindra,XUV700,2023,21397,Diesel,Automatic,1,Individual,7.85
+Honda,City,2021,42741,CNG,Manual,2,Dealer,4.9
+Hyundai,i20,2016,96296,Diesel,Manual,1,Dealer,2.52
+Maruti Suzuki,Wagon R,2025,10617,CNG,Manual,2,Individual,4.0
+Tata,Harrier,2021,79848,Diesel,Manual,1,Individual,4.44
+Tata,Harrier,2021,73689,Petrol,Manual,3,Individual,3.68
+Hyundai,i10,2023,18722,Petrol,Manual,1,Dealer,4.69
+Tata,Harrier,2024,2375,Diesel,Automatic,1,Individual,7.12
+Maruti Suzuki,Wagon R,2013,81823,Petrol,Manual,1,Dealer,0.76
+Toyota,Glanza,2024,37114,Diesel,Automatic,1,Individual,8.38
+Renault,Triber,2022,31772,Petrol,Manual,1,Individual,3.24
+Mahindra,XUV700,2014,105225,Diesel,Manual,1,Dealer,2.45
+Honda,Amaze,2016,161103,Petrol,Manual,2,Individual,0.95
+Honda,City,2022,97734,CNG,Automatic,2,Individual,5.22
+Tata,Harrier,2015,124211,Petrol,Manual,1,Individual,2.15
+Hyundai,Creta,2018,77682,Petrol,Manual,2,Individual,3.13
+Toyota,Urban Cruiser,2021,69586,Diesel,Automatic,1,Individual,5.8
+Toyota,Urban Cruiser,2021,42724,Diesel,Manual,1,Individual,5.57
+Maruti Suzuki,Brezza,2024,37183,Diesel,Manual,1,Individual,6.42
+Honda,Amaze,2013,179018,CNG,Manual,1,Individual,0.81
+Tata,Tiago,2016,132070,Petrol,Manual,1,Individual,0.76
+Hyundai,Venue,2025,1908,Diesel,Manual,1,Individual,6.8
+Mahindra,Bolero,2019,48340,Petrol,Manual,1,Individual,3.8
+Toyota,Etios,2015,161616,Petrol,Automatic,1,Dealer,1.65
+Mahindra,XUV300,2016,104334,Petrol,Manual,2,Individual,2.44
+Mahindra,XUV700,2016,21096,Petrol,Manual,1,Individual,4.07
+Renault,Kwid,2019,23976,Petrol,Automatic,2,Individual,2.82
+Kia,Sonet,2015,79065,Diesel,Manual,1,Dealer,3.02
+Toyota,Innova,2020,81811,Petrol,Manual,1,Dealer,6.07
